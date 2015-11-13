@@ -1,0 +1,65 @@
+SUBCODE,SUBDESC,average_days,sample_size
+4010,Survey,1043.3,124
+4021,Multiple Use,597.3,49
+4075,Non-Voluntary,534.3,144
+7000,Code Enforcement,521.3,3
+,,437.1,5161
+4080,2nd Unit Added,426.8,100
+4035,Tilt Up Office,420.0,21
+4050,Open Public Parking Garage,330.0,61
+4023,Closed Public Parking Garage,325.6,51
+4040,Agricultural Building,289.3,11
+4017,Manufactured Home,268.1,19
+4036,Tilt Up Warehouse,259.9,29
+4004,Canopy Buildings,238.3,7
+4055,Mixed Use,237.9,382
+4014,Hotel/Motel,231.0,221
+4042,Assembly,225.0,177
+4005,Church,211.3,398
+4020,Multi Family,210.9,369
+4053,Undefined,195.2,801
+4003,Bowling Alley,191.4,8
+4034,Theater,189.0,34
+4032,Store,188.5,140
+4000,Apartment/Condo,186.2,9164
+4019,Medical/Dental Clinic,182.9,946
+4070,Voluntary,178.7,21
+4048,Repair Garage,175.9,165
+4028,School/Daycare,164.7,373
+4044,Hazardous Use,160.7,58
+4013,Health Club,160.5,138
+4047,Recreation Building,152.6,134
+4041,Antenna/Cell Site,148.5,674
+4018,Manufacturing,147.9,2251
+4052,Tract Site Work,147.6,187
+4029,Service Station,147.2,591
+4049,Retail,146.5,5520
+4026,Residential Care,142.9,295
+4045,Industrial Plant,138.7,202
+4001,Auditorium,136.5,11
+4027,Restaurant,135.3,2335
+4038,Warehouse/Storage,130.5,961
+4031,SRO/Fraternity/Shelter,128.7,89
+4022,Office,128.5,7219
+4039,High Rise,125.1,85
+4046,R & D Lab,124.8,1176
+4043,Cafeteria,124.4,29
+4002,Bank,113.3,359
+4061,Condo,102.6,3110
+4033,Temporary Use,101.9,154
+4037,Townhouse,100.3,2198
+4008,Duplex,96.3,2512
+4030,Single Family,95.1,127080
+4006,Convalescent/Residential Care,84.7,58
+4060,Apartment,79.7,7654
+4016,Lodge/Summer Camp,75.0,1
+4007,Copy Fee,69.0,1
+4056,Single Dwelling Unit,66.5,901
+4054,Online Permits,50.7,2845
+4012,Halfway House,42.6,8
+5004,Carnivals and Fairs,6.0,1
+4057,Commercial/Industrial,3.5,2
+4051,Address Assignment,2.8,668
+4062,Information Only,0.0,4
+4024,Permit Search,-1.5,10
+4025,Plan Retrieval/Copy,-2.4,10
