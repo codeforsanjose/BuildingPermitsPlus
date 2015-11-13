@@ -11,3 +11,6 @@ Current Data Sets:
 As posted in the meet-up notification:
 
   Come up with insights to help make the permitting process more readily understandable and transparent to residents and businesses. The end result might be a customer facing product that shows how long each permit takes and what the expectation should be. So, we're also interested in prototypes for a dashboard that tracks the timeline for every step in the permitting process (request, acceptance, plan reviews, inspections and approval) for a particular type of business (restaurant, retail, office, medical/dental clinic, etc.).
+
+
+For information or inquiries: Joseph - JcoEighty6@gmail.com
