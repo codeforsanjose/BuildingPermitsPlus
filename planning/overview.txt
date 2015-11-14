@@ -1,0 +1,22 @@
+Please add any ideas to this document!
+
+This document will cover design ideas and possible tech implementations.
+
+	The overall function of the web app should be focused on delivering informational
+updates to the permit applicant and providing assistance in the form of FAQ's. Secondary functionality
+should be concerned with data analysis in the form of applicant feedback and life cycle tracking. 
+
+
+Some important functions to consider in the design process:
+
+	Applicant registration / Login
+	Process completion meter (progress bar / check list / etc..)
+	Issue resolution tools (Searchable FAQ's and/or Service Tickets)
+	Feedback system (for suggestions or other input)
+
+
+Tech considerations:
+	Flask or Django - depending on the needs and constraints
+	HTML / CSS
+	MySQL
+
