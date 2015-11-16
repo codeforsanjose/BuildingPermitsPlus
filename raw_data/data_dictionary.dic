@@ -1,0 +1,40 @@
+           Permit Data File in text and EXCEL format.
+
+The Permit Data File is a listing of all permits issued within a
+certain date range.
+
+Permit Data File in text - This is a text file which can be saved 
+in Notepad or in EXCEL.  One suggestion is to save this file in a 
+folder in your hard drive and rename it with extension .XLS, so 
+you could open it in EXCEL. You can then select and copy/paste 
+any or all of the fields onto a new EXCEL worksheet.  You can 
+sort this file by whatever field you choose. The description of
+the fields are shown below.
+
+Permit Data File in EXCEL format - It contains the following 
+fields (with letters indicating the EXCEL columns):
+-A Tract
+-B APN
+-C Issue Date
+--added Final Date
+-D Lot
+-E Permit Number/ Folder Number
+-F Owner - not displayed any more
+-G Contractor
+-H Applicant
+-I Job Location / Brief Description of Job
+-J PermitApprovals
+-K SubCode
+-L SubCode Description
+-M WorkCode
+-N WorkCode Description
+-O Census Code
+-P Permit Valuation
+-Q Reroof Valuation
+-R Sq Ft
+-S Dwelling Units
+-T FolderRSN (record id)
+-U Swimming pool y/n
+-V Sewer y/n
+-W Enterprise y/n
+-X Permit Flag Building, Plumbing, Mechanical, Electrical
