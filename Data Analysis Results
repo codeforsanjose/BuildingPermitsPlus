@@ -8,23 +8,23 @@
     c. for ease of analysis, a derived attribute can be created - like permit type
         a permit with certain life cycle stages would belong to a certain type
         e.g: Permit that only needs Building approval - Type 1
-             Permit taht only needs Plumbing approval - Type 2
-             Permit taht only needs Mechanical approval - Type 3
-             Permit taht only needs Electrical approval - Type 4
+             Permit that only needs Plumbing approval - Type 2
+             Permit that only needs Mechanical approval - Type 3
+             Permit that only needs Electrical approval - Type 4
              Permit that needs Building and Plumbing approvals - Type 5
              and so on; assign values to all possible combinations
-3. Analyse data
+3. Analyze data
     a. Reveal different statistics
       1. Stage that incurred the least/max delay
-          a. certain combinations did well/wose?
-          b. analyse logically as well, to see the influencing factors and solution possible
+          a. certain combinations did well/worse?
+          b. analyze logically as well, to see the influencing factors and solution possible
       2. Type of permit that incurred least/max delay
-          a. certain combinations did well/wose?
-          b. analyse logically as well, to see the influencing factors and solution possible
+          a. certain combinations did well/worse?
+          b. analyze logically as well, to see the influencing factors and solution possible
       3. Predict the delay in a given stage based on historic data
           a. the end to end delay for a permit as sum of delays in all stages that the permit type has
       4. Number of permits filed/approved in a given period
           a. are the number of permits requested increasing/decreasing every year?
           b. certain type of permit requests are increasing/decreasing?
       5. Predict the approvals that can be completed in a given time
-      6. Identify the KPIs to be dispalyed customer facing and should be considered for internal planning
+      6. Identify the KPIs to be displayed customer facing and should be considered for internal planning
