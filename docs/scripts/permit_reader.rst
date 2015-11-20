@@ -14,5 +14,5 @@ How It Works:
 Here:
 
 * all_out.csv is the file that it is going to process
-* analysis_key is the pivot key (ISSUEDATE). It will calculate the mean and standard deviation of all individual entries in that column.
+* analysis_key is the pivot key (SUBCODE). It will calculate the mean and standard deviation of all individual entries in that column.
 * secondary_key is a second key that is also pivoted on.
