@@ -1,0 +1,651 @@
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'YNNN'),  mean time (days): 96.1916167665,  stddev (days): 84.5883678616, number of entries: 167
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'NNNY'),  mean time (days): 110.422222222,  stddev (days): 231.747883684, number of entries: 135
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'NYNY'),  mean time (days): 102.266666667,  stddev (days): 128.67537597, number of entries: 15
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'NNNY'),  mean time (days): 165.228571429,  stddev (days): 215.49260745, number of entries: 35
+Key SUBDESC:PERMITFLAG value: ('Multiple Use', 'YNYN'),  mean time (days): 2080.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'YNNY'),  mean time (days): 258.115384615,  stddev (days): 238.669030571, number of entries: 26
+Key SUBDESC:PERMITFLAG value: ('', 'YNNN'),  mean time (days): 11992.25,  stddev (days): 7243.51095234, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'NNYN'),  mean time (days): 156.285714286,  stddev (days): 137.533891927, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'YYNY'),  mean time (days): 97.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Retail', 'NYYY'),  mean time (days): 191.666666667,  stddev (days): 313.39058757, number of entries: 54
+Key SUBDESC:PERMITFLAG value: ('Multiple Use', 'NNYN'),  mean time (days): 755.25,  stddev (days): 854.617019489, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Open Public Parking Garage', 'YYYN'),  mean time (days): 447.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Retail', 'YYNY'),  mean time (days): 181.757142857,  stddev (days): 226.76323059, number of entries: 210
+Key SUBDESC:PERMITFLAG value: ('Bank', 'YYNN'),  mean time (days): 180.0,  stddev (days): 62.2253967444, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'NNNN'),  mean time (days): 197.73715415,  stddev (days): 394.695305572, number of entries: 506
+Key SUBDESC:PERMITFLAG value: ('Permit Search', 'NNNN'),  mean time (days): -1.5,  stddev (days): 11.9837853415, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('', 'NNNN'),  mean time (days): 411.500582751,  stddev (days): 1912.98610384, number of entries: 5148
+Key SUBDESC:PERMITFLAG value: ('Bank', 'NYYN'),  mean time (days): 57.5,  stddev (days): 19.091883092, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'NNNN'),  mean time (days): 682.25,  stddev (days): 266.406644061, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Convalescent/Residential Care', 'YNNN'),  mean time (days): 148.2,  stddev (days): 172.394122096, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'YYNY'),  mean time (days): 155.25,  stddev (days): 171.0971946, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'NNYY'),  mean time (days): 234.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'NYYY'),  mean time (days): 66.0,  stddev (days): 65.6242748878, number of entries: 12
+Key SUBDESC:PERMITFLAG value: ('Temporary Use', 'NYYY'),  mean time (days): 36.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Store', 'YYNN'),  mean time (days): 75.3333333333,  stddev (days): 82.2820353014, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'NYNN'),  mean time (days): 76.1052631579,  stddev (days): 127.452777633, number of entries: 19
+Key SUBDESC:PERMITFLAG value: ('Multiple Use', 'YYYN'),  mean time (days): 9.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Bank', 'YYYN'),  mean time (days): 101.75,  stddev (days): 23.9774199335, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'YNNY'),  mean time (days): 97.8956521739,  stddev (days): 113.491585121, number of entries: 115
+Key SUBDESC:PERMITFLAG value: ('Online Permits', 'NYYN'),  mean time (days): 25.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'NYNY'),  mean time (days): 196.943548387,  stddev (days): 295.326698041, number of entries: 124
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'NYNN'),  mean time (days): 67.5,  stddev (days): 38.5616389693, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'YNYN'),  mean time (days): 74.0,  stddev (days): 61.4125394362, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'NYYN'),  mean time (days): 342.8,  stddev (days): 432.665228554, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'YYNY'),  mean time (days): 229.103448276,  stddev (days): 160.130380991, number of entries: 29
+Key SUBDESC:PERMITFLAG value: ('Antenna/Cell Site', 'YNYN'),  mean time (days): 77.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Agricultural Building', 'NNNN'),  mean time (days): 603.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Hazardous Use', 'YNNN'),  mean time (days): 153.0,  stddev (days): 142.075432681, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'NYYN'),  mean time (days): 127.892857143,  stddev (days): 108.85475858, number of entries: 28
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'NNYN'),  mean time (days): 17.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'YYYN'),  mean time (days): 286.0,  stddev (days): 276.143078856, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Retail', 'NNNY'),  mean time (days): 88.4865819209,  stddev (days): 139.051856878, number of entries: 1416
+Key SUBDESC:PERMITFLAG value: ('Hazardous Use', 'NYYN'),  mean time (days): 12.0,  stddev (days): 7.07106781187, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Store', 'NYYY'),  mean time (days): 98.0,  stddev (days): 29.6984848098, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'YNNY'),  mean time (days): 234.802197802,  stddev (days): 247.524150103, number of entries: 91
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'YYNN'),  mean time (days): 380.0,  stddev (days): 502.68744431, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'YNYY'),  mean time (days): 324.166666667,  stddev (days): 467.971023449, number of entries: 12
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'NNNY'),  mean time (days): 41.5,  stddev (days): 21.7332310836, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'YYYY'),  mean time (days): 214.014705882,  stddev (days): 211.278318354, number of entries: 340
+Key SUBDESC:PERMITFLAG value: ('Plan Retrieval/Copy', 'NNNN'),  mean time (days): -2.4,  stddev (days): 83.4668264109, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('Closed Public Parking Garage', 'YNYY'),  mean time (days): 291.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'YNNN'),  mean time (days): 154.36802974,  stddev (days): 229.98892385, number of entries: 269
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'NYNN'),  mean time (days): 97.0303030303,  stddev (days): 90.406196154, number of entries: 33
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'YYYN'),  mean time (days): 499.333333333,  stddev (days): 774.845446955, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Warehouse', 'YNNN'),  mean time (days): 198.0,  stddev (days): 88.9306846182, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'NYNN'),  mean time (days): 74.8636363636,  stddev (days): 120.007259881, number of entries: 22
+Key SUBDESC:PERMITFLAG value: ('Bank', 'YNYN'),  mean time (days): 64.6666666667,  stddev (days): 45.7420302712, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'NNNN'),  mean time (days): 1455.375,  stddev (days): 2651.85573501, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'NNYY'),  mean time (days): 25.0,  stddev (days): 19.9248588452, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'YNYY'),  mean time (days): 131.866666667,  stddev (days): 97.8511016557, number of entries: 15
+Key SUBDESC:PERMITFLAG value: ('Bank', 'YYYY'),  mean time (days): 127.655737705,  stddev (days): 71.1467697196, number of entries: 61
+Key SUBDESC:PERMITFLAG value: ('Online Permits', 'NNYY'),  mean time (days): 64.6560509554,  stddev (days): 90.5396012928, number of entries: 157
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'YNNY'),  mean time (days): 171.76056338,  stddev (days): 233.92138269, number of entries: 71
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'NYYY'),  mean time (days): 499.75,  stddev (days): 580.090438351, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Antenna/Cell Site', 'YYYY'),  mean time (days): 646.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Antenna/Cell Site', 'YNNY'),  mean time (days): 179.626506024,  stddev (days): 246.823956453, number of entries: 415
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'NYYY'),  mean time (days): 87.0,  stddev (days): 37.4076640989, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Condo', 'YYNN'),  mean time (days): 275.285714286,  stddev (days): 813.19497412, number of entries: 14
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'NNNN'),  mean time (days): 1318.25,  stddev (days): 1572.81178679, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Condo', 'NYYN'),  mean time (days): 119.058823529,  stddev (days): 163.20786998, number of entries: 17
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'NYYN'),  mean time (days): 154.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'YNNY'),  mean time (days): 205.358208955,  stddev (days): 245.001527608, number of entries: 67
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'YYNY'),  mean time (days): 205.25,  stddev (days): 113.986475806, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Antenna/Cell Site', 'NYYN'),  mean time (days): 107.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'YYYY'),  mean time (days): 368.541666667,  stddev (days): 387.356731807, number of entries: 72
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'YNNY'),  mean time (days): 120.382978723,  stddev (days): 154.757953113, number of entries: 47
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'YNYN'),  mean time (days): 121.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'YYNY'),  mean time (days): 130.0,  stddev (days): 71.714712577, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Condo', 'YNNY'),  mean time (days): 141.019607843,  stddev (days): 181.945100533, number of entries: 51
+Key SUBDESC:PERMITFLAG value: ('Antenna/Cell Site', 'YYNY'),  mean time (days): 177.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'YYNY'),  mean time (days): 290.25,  stddev (days): 431.661422105, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'NYYN'),  mean time (days): 46.6153846154,  stddev (days): 34.2601285791, number of entries: 13
+Key SUBDESC:PERMITFLAG value: ('Multiple Use', 'NNNY'),  mean time (days): 388.8,  stddev (days): 522.748696794, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'YNYY'),  mean time (days): 180.428571429,  stddev (days): 131.181646348, number of entries: 28
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Warehouse', 'YNYY'),  mean time (days): 388.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'NNNN'),  mean time (days): 3259.75,  stddev (days): 6732.13639095, number of entries: 12
+Key SUBDESC:PERMITFLAG value: ('Bank', 'NNYY'),  mean time (days): 36.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'YNNN'),  mean time (days): 136.5,  stddev (days): 176.72361575, number of entries: 56
+Key SUBDESC:PERMITFLAG value: ('Survey', 'NNNN'),  mean time (days): 1957.25806452,  stddev (days): 1909.73136842, number of entries: 62
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'NNNY'),  mean time (days): 84.9956896552,  stddev (days): 124.935186585, number of entries: 232
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'YYNN'),  mean time (days): 183.714285714,  stddev (days): 127.057354878, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'YYNN'),  mean time (days): 56.5714285714,  stddev (days): 29.5852279742, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Agricultural Building', 'YNNN'),  mean time (days): 251.4,  stddev (days): 409.983292343, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'NYNN'),  mean time (days): 90.75,  stddev (days): 96.4585403166, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'YYYY'),  mean time (days): 382.651785714,  stddev (days): 234.906591867, number of entries: 224
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'YYNY'),  mean time (days): 150.26,  stddev (days): 274.704197936, number of entries: 100
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'YYYN'),  mean time (days): 73.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'YYYY'),  mean time (days): 181.551724138,  stddev (days): 162.769027022, number of entries: 29
+Key SUBDESC:PERMITFLAG value: ('Retail', 'YYYY'),  mean time (days): 202.857747671,  stddev (days): 282.227039422, number of entries: 1181
+Key SUBDESC:PERMITFLAG value: ('Theater', 'NNNN'),  mean time (days): 135.5,  stddev (days): 54.4472221514, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'NYNN'),  mean time (days): 31.5769230769,  stddev (days): 54.1236902489, number of entries: 26
+Key SUBDESC:PERMITFLAG value: ('Retail', 'YNYN'),  mean time (days): 128.153846154,  stddev (days): 251.135133712, number of entries: 26
+Key SUBDESC:PERMITFLAG value: ('Manufactured Home', 'YYNY'),  mean time (days): 249.545454545,  stddev (days): 189.293086845, number of entries: 11
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'NNNY'),  mean time (days): 79.8421052632,  stddev (days): 103.767010989, number of entries: 171
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'NYNN'),  mean time (days): 47.6348915368,  stddev (days): 78.2420830638, number of entries: 3273
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'YNYY'),  mean time (days): 154.7,  stddev (days): 205.140087637, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'NNYY'),  mean time (days): 39.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Retail', 'NNYN'),  mean time (days): 70.8833333333,  stddev (days): 86.0968951249, number of entries: 120
+Key SUBDESC:PERMITFLAG value: ('Closed Public Parking Garage', 'NNNY'),  mean time (days): 42.4,  stddev (days): 38.1549472546, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'YYNY'),  mean time (days): 184.991831972,  stddev (days): 195.690213006, number of entries: 2571
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'NNYN'),  mean time (days): 91.0862068966,  stddev (days): 186.885581328, number of entries: 58
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'YNNY'),  mean time (days): 242.52866242,  stddev (days): 315.594038172, number of entries: 157
+Key SUBDESC:PERMITFLAG value: ('Cafeteria', 'YYYY'),  mean time (days): 215.222222222,  stddev (days): 305.607500635, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('Condo', 'YNYN'),  mean time (days): 329.833333333,  stddev (days): 76.7012922661, number of entries: 18
+Key SUBDESC:PERMITFLAG value: ('Antenna/Cell Site', 'NNNY'),  mean time (days): 77.8796296296,  stddev (days): 91.5661976558, number of entries: 108
+Key SUBDESC:PERMITFLAG value: ('Online Permits', 'NYNY'),  mean time (days): 122.0,  stddev (days): 164.048773235, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'NNYY'),  mean time (days): 109.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Temporary Use', 'YYYY'),  mean time (days): 163.2,  stddev (days): 236.537946216, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Bank', 'NNNY'),  mean time (days): 91.0412371134,  stddev (days): 94.3506224063, number of entries: 97
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'YNNN'),  mean time (days): 37.2784958872,  stddev (days): 64.1503839471, number of entries: 851
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'YYNN'),  mean time (days): 85.0833333333,  stddev (days): 164.052512783, number of entries: 48
+Key SUBDESC:PERMITFLAG value: ('Church', 'NYYN'),  mean time (days): 413.666666667,  stddev (days): 406.207254161, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'YYYN'),  mean time (days): 77.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Temporary Use', 'YNNY'),  mean time (days): 93.0,  stddev (days): 80.3112002705, number of entries: 19
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'NYYN'),  mean time (days): 70.3076923077,  stddev (days): 101.053108657, number of entries: 13
+Key SUBDESC:PERMITFLAG value: ('Multiple Use', 'NYNN'),  mean time (days): 305.166666667,  stddev (days): 232.066147832, number of entries: 12
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'YYNY'),  mean time (days): 226.0,  stddev (days): 262.552851822, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Theater', 'YYNN'),  mean time (days): 51.3333333333,  stddev (days): 49.0340018083, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'YNYN'),  mean time (days): 83.0,  stddev (days): 22.627416998, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'YYYN'),  mean time (days): 111.297029703,  stddev (days): 158.238335719, number of entries: 101
+Key SUBDESC:PERMITFLAG value: ('Store', 'NNNY'),  mean time (days): 134.529411765,  stddev (days): 152.206322818, number of entries: 17
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'NYNY'),  mean time (days): 163.333333333,  stddev (days): 182.284027459, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Church', 'YNNY'),  mean time (days): 234.413793103,  stddev (days): 217.954536092, number of entries: 29
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'YYYN'),  mean time (days): 212.0,  stddev (days): 250.843244544, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'YYNY'),  mean time (days): 190.95,  stddev (days): 211.03940141, number of entries: 20
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'YYYY'),  mean time (days): 250.666666667,  stddev (days): 205.852602893, number of entries: 18
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'YNNY'),  mean time (days): 143.0,  stddev (days): 138.953229541, number of entries: 23
+Key SUBDESC:PERMITFLAG value: ('Bowling Alley', 'YYYY'),  mean time (days): 64.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Temporary Use', 'YYNN'),  mean time (days): 11.0,  stddev (days): 4.24264068712, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'YNNY'),  mean time (days): 158.730769231,  stddev (days): 174.668979886, number of entries: 130
+Key SUBDESC:PERMITFLAG value: ('Bank', 'YNNY'),  mean time (days): 133.471698113,  stddev (days): 161.452136724, number of entries: 53
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'YYNN'),  mean time (days): 47.8333333333,  stddev (days): 54.145790849, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'NNNN'),  mean time (days): 1676.33333333,  stddev (days): 2497.72423084, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Multiple Use', 'YNNY'),  mean time (days): 215.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'YNYN'),  mean time (days): 120.0,  stddev (days): 109.995454452, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Open Public Parking Garage', 'YNYY'),  mean time (days): 143.0,  stddev (days): 69.2964645563, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('2nd Unit Added', 'YYNY'),  mean time (days): 344.0,  stddev (days): 326.859296946, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Open Public Parking Garage', 'YYYY'),  mean time (days): 473.25,  stddev (days): 325.033514755, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'NYNY'),  mean time (days): 160.764705882,  stddev (days): 270.279376158, number of entries: 17
+Key SUBDESC:PERMITFLAG value: ('Condo', 'NNYY'),  mean time (days): 57.9529411765,  stddev (days): 68.6717467403, number of entries: 255
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'YYNN'),  mean time (days): 152.755102041,  stddev (days): 173.979707942, number of entries: 49
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'NYNN'),  mean time (days): 48.9166666667,  stddev (days): 83.5744482829, number of entries: 24
+Key SUBDESC:PERMITFLAG value: ('Retail', 'NYYN'),  mean time (days): 143.788235294,  stddev (days): 224.136124355, number of entries: 85
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'YYYN'),  mean time (days): 306.0,  stddev (days): 297.208680896, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Retail', 'YYNN'),  mean time (days): 166.152777778,  stddev (days): 240.566330622, number of entries: 72
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'NYYY'),  mean time (days): 93.4528301887,  stddev (days): 85.8132063616, number of entries: 53
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'NYNN'),  mean time (days): 77.3880733945,  stddev (days): 214.561531766, number of entries: 1090
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'YNNN'),  mean time (days): 162.31875,  stddev (days): 186.413565108, number of entries: 160
+Key SUBDESC:PERMITFLAG value: ('Office', 'NYYY'),  mean time (days): 108.114285714,  stddev (days): 90.1494743806, number of entries: 35
+Key SUBDESC:PERMITFLAG value: ('Auditorium', 'YNNN'),  mean time (days): 178.75,  stddev (days): 178.150451398, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'NYNN'),  mean time (days): 158.6,  stddev (days): 178.209667847, number of entries: 15
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'YYNN'),  mean time (days): 102.684210526,  stddev (days): 106.18527337, number of entries: 76
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'NNYN'),  mean time (days): 55.6,  stddev (days): 84.5210033069, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'NYNY'),  mean time (days): 59.0,  stddev (days): 60.7970863964, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'NNYY'),  mean time (days): 50.9858156028,  stddev (days): 79.3625483656, number of entries: 141
+Key SUBDESC:PERMITFLAG value: ('Open Public Parking Garage', 'YYNY'),  mean time (days): 492.2,  stddev (days): 343.525399352, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'YNNY'),  mean time (days): 225.043478261,  stddev (days): 256.759965419, number of entries: 23
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'NYYY'),  mean time (days): 79.4888888889,  stddev (days): 63.7839471904, number of entries: 45
+Key SUBDESC:PERMITFLAG value: ('Office', 'YNNN'),  mean time (days): 125.647058824,  stddev (days): 176.208276068, number of entries: 1173
+Key SUBDESC:PERMITFLAG value: ('', 'NYNN'),  mean time (days): 11678.5,  stddev (days): 2012.34365852, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Cafeteria', 'NNYN'),  mean time (days): 27.5,  stddev (days): 38.8908729653, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'YYYY'),  mean time (days): 202.581005587,  stddev (days): 184.186971068, number of entries: 179
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'NNNY'),  mean time (days): 65.15,  stddev (days): 119.879544244, number of entries: 40
+Key SUBDESC:PERMITFLAG value: ('Multiple Use', 'YNNN'),  mean time (days): 910.111111111,  stddev (days): 652.833907752, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'NNNN'),  mean time (days): 1495.88095238,  stddev (days): 1468.57558667, number of entries: 42
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'NNYY'),  mean time (days): 59.9310344828,  stddev (days): 83.944397234, number of entries: 58
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'NYNY'),  mean time (days): 241.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Manufactured Home', 'YNNN'),  mean time (days): 84.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'NYNN'),  mean time (days): 180.235294118,  stddev (days): 121.461758326, number of entries: 68
+Key SUBDESC:PERMITFLAG value: ('Store', 'NYYN'),  mean time (days): 55.6666666667,  stddev (days): 17.616280349, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Retail', 'YNYY'),  mean time (days): 110.225531915,  stddev (days): 155.806436001, number of entries: 235
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'NYNY'),  mean time (days): 222.107142857,  stddev (days): 189.495888607, number of entries: 28
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'YNYY'),  mean time (days): 99.25,  stddev (days): 61.4403504764, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'NNNN'),  mean time (days): 590.4,  stddev (days): 844.24281865, number of entries: 20
+Key SUBDESC:PERMITFLAG value: ('Non-Voluntary', 'NNNN'),  mean time (days): 492.471698113,  stddev (days): 679.138771254, number of entries: 106
+Key SUBDESC:PERMITFLAG value: ('Agricultural Building', 'NYNN'),  mean time (days): 5.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'YYNN'),  mean time (days): 171.7,  stddev (days): 158.83537949, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'YNNY'),  mean time (days): 171.180851064,  stddev (days): 225.403949344, number of entries: 188
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'NNNY'),  mean time (days): 57.0757575758,  stddev (days): 91.8524419685, number of entries: 66
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'NNYY'),  mean time (days): 121.125,  stddev (days): 222.861544142, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'NYYY'),  mean time (days): 103.381944444,  stddev (days): 115.341632809, number of entries: 144
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'YYYY'),  mean time (days): 525.970838396,  stddev (days): 528.532400078, number of entries: 823
+Key SUBDESC:PERMITFLAG value: ('Tract Site Work', 'YNNY'),  mean time (days): 525.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Bank', 'NNNN'),  mean time (days): 355.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'NYNY'),  mean time (days): 93.5,  stddev (days): 58.6898628385, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'NNYY'),  mean time (days): 65.4361702128,  stddev (days): 77.4035033675, number of entries: 94
+Key SUBDESC:PERMITFLAG value: ('Convalescent/Residential Care', 'NNYY'),  mean time (days): 10.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Manufactured Home', 'YYYY'),  mean time (days): 373.0,  stddev (days): 203.728986646, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'NYYN'),  mean time (days): 122.25,  stddev (days): 83.2160841825, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Warehouse', 'YYNY'),  mean time (days): 342.181818182,  stddev (days): 52.3446619663, number of entries: 11
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Office', 'NYNN'),  mean time (days): 389.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'YYNY'),  mean time (days): 90.3333333333,  stddev (days): 74.1449031739, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Theater', 'NYYY'),  mean time (days): 211.5,  stddev (days): 82.7314933988, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Hazardous Use', 'NYNN'),  mean time (days): 181.0,  stddev (days): 200.689810404, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'NYNY'),  mean time (days): 106.193548387,  stddev (days): 145.737988494, number of entries: 31
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'YYYN'),  mean time (days): 415.142857143,  stddev (days): 451.69843501, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Closed Public Parking Garage', 'YYYY'),  mean time (days): 244.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'YNYY'),  mean time (days): 219.967213115,  stddev (days): 346.561825519, number of entries: 61
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'YNNY'),  mean time (days): 125.25928009,  stddev (days): 155.984332352, number of entries: 3556
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'NYNN'),  mean time (days): 74.9125,  stddev (days): 129.552390871, number of entries: 1040
+Key SUBDESC:PERMITFLAG value: ('Tract Site Work', 'NNNY'),  mean time (days): 69.2164179104,  stddev (days): 159.539108833, number of entries: 134
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'YYNY'),  mean time (days): 120.555555556,  stddev (days): 90.4130951676, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'YYYN'),  mean time (days): 108.5,  stddev (days): 4.94974746831, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'NNNN'),  mean time (days): 143.507692308,  stddev (days): 117.496957817, number of entries: 65
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'NNYY'),  mean time (days): 65.4154929577,  stddev (days): 80.32409908, number of entries: 142
+Key SUBDESC:PERMITFLAG value: ('Online Permits', 'NNNY'),  mean time (days): 58.078313253,  stddev (days): 123.545206594, number of entries: 166
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'YNNY'),  mean time (days): 144.875,  stddev (days): 173.804049658, number of entries: 184
+Key SUBDESC:PERMITFLAG value: ('Closed Public Parking Garage', 'NYYY'),  mean time (days): 448.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'YYYY'),  mean time (days): 281.62962963,  stddev (days): 313.019555564, number of entries: 27
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'NNNY'),  mean time (days): 58.3421052632,  stddev (days): 101.85099485, number of entries: 304
+Key SUBDESC:PERMITFLAG value: ('Open Public Parking Garage', 'YNNN'),  mean time (days): 478.076923077,  stddev (days): 397.560993547, number of entries: 13
+Key SUBDESC:PERMITFLAG value: ('Multi Family', 'NNNN'),  mean time (days): 209.353424658,  stddev (days): 374.372513139, number of entries: 365
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'NYNY'),  mean time (days): 143.25,  stddev (days): 126.478400189, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'NYYY'),  mean time (days): 456.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'NYNN'),  mean time (days): 46.85,  stddev (days): 63.0076238995, number of entries: 240
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'NNNN'),  mean time (days): 417.315992293,  stddev (days): 945.212539864, number of entries: 519
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'NNYN'),  mean time (days): 34.1439393939,  stddev (days): 64.068919544, number of entries: 132
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'NYYY'),  mean time (days): 132.0,  stddev (days): 24.0416305603, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'YNNN'),  mean time (days): 264.042857143,  stddev (days): 434.622222623, number of entries: 70
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'YNNN'),  mean time (days): 77.4166666667,  stddev (days): 89.0580468812, number of entries: 36
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'YNNN'),  mean time (days): 182.545454545,  stddev (days): 276.88215665, number of entries: 66
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'YNYN'),  mean time (days): 50.5,  stddev (days): 67.5697170829, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'NYNY'),  mean time (days): 341.444444444,  stddev (days): 160.813643009, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'NNNN'),  mean time (days): 950.941176471,  stddev (days): 1352.84554138, number of entries: 17
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'YYYN'),  mean time (days): 148.944444444,  stddev (days): 156.684948871, number of entries: 18
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'YYYY'),  mean time (days): 214.621359223,  stddev (days): 294.679357698, number of entries: 103
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'NYNN'),  mean time (days): 39.8976377953,  stddev (days): 68.3728996506, number of entries: 508
+Key SUBDESC:PERMITFLAG value: ('Retail', 'NNYY'),  mean time (days): 74.3913043478,  stddev (days): 82.8458256645, number of entries: 23
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'NNYY'),  mean time (days): 68.5,  stddev (days): 21.9203102168, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'YYYN'),  mean time (days): 208.0,  stddev (days): 55.1543289326, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'YNNN'),  mean time (days): 144.472222222,  stddev (days): 135.039567982, number of entries: 36
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'YNNY'),  mean time (days): 227.392857143,  stddev (days): 656.345625938, number of entries: 28
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'YYYN'),  mean time (days): 352.333333333,  stddev (days): 124.6769158, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'YNNY'),  mean time (days): 189.0,  stddev (days): 80.7279381627, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Church', 'NYYY'),  mean time (days): 529.166666667,  stddev (days): 846.069599186, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'NNNY'),  mean time (days): 47.8846153846,  stddev (days): 57.7347915372, number of entries: 26
+Key SUBDESC:PERMITFLAG value: ('Address Assignment', 'YNNN'),  mean time (days): 0.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'NYYN'),  mean time (days): 334.2,  stddev (days): 362.593022547, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'YYNY'),  mean time (days): 371.052631579,  stddev (days): 821.743774184, number of entries: 19
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'NYYY'),  mean time (days): 265.25,  stddev (days): 267.369126864, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'NNNN'),  mean time (days): 249.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Voluntary', 'NNNN'),  mean time (days): 245.692307692,  stddev (days): 478.023776364, number of entries: 13
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'YYNN'),  mean time (days): 146.325,  stddev (days): 176.567323907, number of entries: 40
+Key SUBDESC:PERMITFLAG value: ('Open Public Parking Garage', 'NYNN'),  mean time (days): 461.625,  stddev (days): 545.716288796, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'NYNY'),  mean time (days): 15.0,  stddev (days): 4.24264068712, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'YYYY'),  mean time (days): 269.326246761,  stddev (days): 255.393736349, number of entries: 18909
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'YYNN'),  mean time (days): 53.5,  stddev (days): 36.189317024, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Retail', 'YNNN'),  mean time (days): 170.993150685,  stddev (days): 317.189698912, number of entries: 876
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'NNNN'),  mean time (days): 392.757163773,  stddev (days): 804.87891694, number of entries: 4781
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'YNYN'),  mean time (days): 139.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'YNYY'),  mean time (days): 133.5,  stddev (days): 197.067957822, number of entries: 26
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'NYYN'),  mean time (days): 173.333333333,  stddev (days): 94.6273392489, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'NNYY'),  mean time (days): 84.5,  stddev (days): 89.8025612107, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'YNNN'),  mean time (days): 80.296875,  stddev (days): 173.642277758, number of entries: 64
+Key SUBDESC:PERMITFLAG value: ('Closed Public Parking Garage', 'NNYN'),  mean time (days): 34.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Theater', 'NYYN'),  mean time (days): 259.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Auditorium', 'NYYY'),  mean time (days): 217.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Bank', 'NYNN'),  mean time (days): 54.3333333333,  stddev (days): 61.8970920157, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'NNYN'),  mean time (days): 110.875,  stddev (days): 126.695369555, number of entries: 16
+Key SUBDESC:PERMITFLAG value: ('Canopy Buildings', 'YNNY'),  mean time (days): 229.5,  stddev (days): 157.684812205, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Office', 'NYYN'),  mean time (days): 109.841269841,  stddev (days): 100.791577725, number of entries: 63
+Key SUBDESC:PERMITFLAG value: ('Hazardous Use', 'YYNY'),  mean time (days): 111.666666667,  stddev (days): 12.503332889, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'NYNY'),  mean time (days): 94.25,  stddev (days): 143.065419601, number of entries: 64
+Key SUBDESC:PERMITFLAG value: ('Hazardous Use', 'NYYY'),  mean time (days): 170.0,  stddev (days): 181.019335984, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Auditorium', 'YNNY'),  mean time (days): 87.5,  stddev (days): 48.7903679019, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Church', 'YNYY'),  mean time (days): 265.0,  stddev (days): 296.548938166, number of entries: 23
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'YNYN'),  mean time (days): 185.695652174,  stddev (days): 130.112341244, number of entries: 23
+Key SUBDESC:PERMITFLAG value: ('Manufactured Home', 'NNNY'),  mean time (days): 14.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'NNYN'),  mean time (days): 81.8,  stddev (days): 78.0941739184, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'YNYN'),  mean time (days): 115.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'NNNY'),  mean time (days): 30.9867549669,  stddev (days): 64.142340333, number of entries: 151
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'YYNN'),  mean time (days): 137.038461538,  stddev (days): 188.207859723, number of entries: 26
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'YYYY'),  mean time (days): 180.089783282,  stddev (days): 237.529940316, number of entries: 646
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'YNYY'),  mean time (days): 150.179389313,  stddev (days): 168.007167434, number of entries: 262
+Key SUBDESC:PERMITFLAG value: ('Open Public Parking Garage', 'YNNY'),  mean time (days): 105.833333333,  stddev (days): 55.1231953597, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'YYYY'),  mean time (days): 234.888888889,  stddev (days): 191.235602218, number of entries: 45
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'NNYN'),  mean time (days): 101.2,  stddev (days): 106.098471781, number of entries: 15
+Key SUBDESC:PERMITFLAG value: ('Antenna/Cell Site', 'YNNN'),  mean time (days): 89.2868852459,  stddev (days): 98.9971599483, number of entries: 122
+Key SUBDESC:PERMITFLAG value: ('Copy Fee', 'NNNN'),  mean time (days): 69.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Convalescent/Residential Care', 'NNNY'),  mean time (days): 42.875,  stddev (days): 71.964690416, number of entries: 16
+Key SUBDESC:PERMITFLAG value: ('Office', 'YYNY'),  mean time (days): 166.190721649,  stddev (days): 184.149240323, number of entries: 194
+Key SUBDESC:PERMITFLAG value: ('Auditorium', 'NNNY'),  mean time (days): 1.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Halfway House', 'YYYY'),  mean time (days): 53.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'NNNN'),  mean time (days): 295.8,  stddev (days): 381.120978168, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'NNYN'),  mean time (days): 26.6666666667,  stddev (days): 18.1383571472, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'NNNY'),  mean time (days): 140.928358209,  stddev (days): 264.888872195, number of entries: 335
+Key SUBDESC:PERMITFLAG value: ('4030', 'N'),  mean time (days): 100.5,  stddev (days): 120.915259583, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'NYYN'),  mean time (days): 249.0,  stddev (days): 299.914987955, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Tract Site Work', 'YNNN'),  mean time (days): 379.185185185,  stddev (days): 282.805591969, number of entries: 27
+Key SUBDESC:PERMITFLAG value: ('Canopy Buildings', 'YYNY'),  mean time (days): 331.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'YYNN'),  mean time (days): 190.125,  stddev (days): 146.679862772, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'YNYN'),  mean time (days): 32.0,  stddev (days): 16.9705627485, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Office', 'NNYY'),  mean time (days): 57.8125,  stddev (days): 64.7810243592, number of entries: 48
+Key SUBDESC:PERMITFLAG value: ('Tract Site Work', 'NNYN'),  mean time (days): 14.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Office', 'YNNY'),  mean time (days): 596.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'NYYN'),  mean time (days): 52.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'NNNN'),  mean time (days): 801.8,  stddev (days): 841.411730367, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Condo', 'NYNN'),  mean time (days): 50.5721925134,  stddev (days): 116.380918575, number of entries: 748
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'NNYN'),  mean time (days): 100.833333333,  stddev (days): 42.901825913, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Office', 'YNYN'),  mean time (days): 97.3614457831,  stddev (days): 80.5370053277, number of entries: 83
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'YYNY'),  mean time (days): 170.903225806,  stddev (days): 181.937233653, number of entries: 31
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'NYNY'),  mean time (days): 257.5,  stddev (days): 344.361002438, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Hazardous Use', 'YNYY'),  mean time (days): 233.25,  stddev (days): 228.550557083, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'YNNY'),  mean time (days): 185.131147541,  stddev (days): 159.540598238, number of entries: 183
+Key SUBDESC:PERMITFLAG value: ('Cafeteria', 'YNYN'),  mean time (days): 71.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'YYNN'),  mean time (days): 72.8571428571,  stddev (days): 63.2651261792, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'YNNY'),  mean time (days): 197.222222222,  stddev (days): 137.074713657, number of entries: 18
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'NNYY'),  mean time (days): 47.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'NYYN'),  mean time (days): 86.5,  stddev (days): 81.6962531441, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'YNNY'),  mean time (days): 120.933333333,  stddev (days): 111.498537253, number of entries: 15
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'YYYY'),  mean time (days): 388.627906977,  stddev (days): 630.792947227, number of entries: 86
+Key SUBDESC:PERMITFLAG value: ('Church', 'YYNN'),  mean time (days): 215.153846154,  stddev (days): 216.072845029, number of entries: 13
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'YYNN'),  mean time (days): 123.6,  stddev (days): 154.684517648, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'YYYN'),  mean time (days): 91.0,  stddev (days): 8.48528137424, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'NNYN'),  mean time (days): 37.6,  stddev (days): 42.0243315764, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'NNNY'),  mean time (days): 84.63507109,  stddev (days): 155.5622506, number of entries: 211
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'YYNN'),  mean time (days): 55.7720510096,  stddev (days): 131.995535846, number of entries: 1882
+Key SUBDESC:PERMITFLAG value: ('Open Public Parking Garage', 'NNNY'),  mean time (days): 140.0,  stddev (days): 157.866456798, number of entries: 12
+Key SUBDESC:PERMITFLAG value: ('Church', 'NNYY'),  mean time (days): 77.4,  stddev (days): 50.1247333049, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('Condo', 'YNYY'),  mean time (days): 72.3846153846,  stddev (days): 49.585543799, number of entries: 26
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'NYYY'),  mean time (days): 579.0,  stddev (days): 436.991990773, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'NNYN'),  mean time (days): 29.5161290323,  stddev (days): 52.366846581, number of entries: 62
+Key SUBDESC:PERMITFLAG value: ('Condo', 'YYYN'),  mean time (days): 130.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'NYYY'),  mean time (days): 131.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'YYNN'),  mean time (days): 380.9375,  stddev (days): 393.459946077, number of entries: 16
+Key SUBDESC:PERMITFLAG value: ('Multi Family', 'NNYN'),  mean time (days): 574.5,  stddev (days): 27.5771644663, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'YNNY'),  mean time (days): 256.074766355,  stddev (days): 249.452710417, number of entries: 107
+Key SUBDESC:PERMITFLAG value: ('', 'NNYN'),  mean time (days): 10937.0,  stddev (days): 4014.95230358, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'NNNY'),  mean time (days): 60.829015544,  stddev (days): 102.488348594, number of entries: 386
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'YYYY'),  mean time (days): 488.0,  stddev (days): 244.150056318, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('Multi Family', 'NNNY'),  mean time (days): 259.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'NNNY'),  mean time (days): 86.8333333333,  stddev (days): 88.9238397471, number of entries: 24
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'YNYY'),  mean time (days): 171.493975904,  stddev (days): 181.299400231, number of entries: 83
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'NYYN'),  mean time (days): 124.363636364,  stddev (days): 114.756501103, number of entries: 11
+Key SUBDESC:PERMITFLAG value: ('Convalescent/Residential Care', 'YNYY'),  mean time (days): 42.5,  stddev (days): 41.71930009, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Cafeteria', 'NYYY'),  mean time (days): 51.5,  stddev (days): 13.4350288425, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Office', 'NNNY'),  mean time (days): 171.428571429,  stddev (days): 99.1746895514, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'NYYN'),  mean time (days): 124.752688172,  stddev (days): 135.22595068, number of entries: 93
+Key SUBDESC:PERMITFLAG value: ('Church', 'YNNN'),  mean time (days): 173.790909091,  stddev (days): 301.399764873, number of entries: 110
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'NYNN'),  mean time (days): 152.717391304,  stddev (days): 185.769461648, number of entries: 92
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'NNYY'),  mean time (days): 97.6666666667,  stddev (days): 148.355148209, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('Theater', 'YNYY'),  mean time (days): 187.5,  stddev (days): 113.844191771, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'YYYN'),  mean time (days): 121.666666667,  stddev (days): 46.306946923, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'NNNN'),  mean time (days): 663.391304348,  stddev (days): 1189.54470813, number of entries: 23
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'YYNY'),  mean time (days): 128.96,  stddev (days): 99.5115068723, number of entries: 25
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Warehouse', 'YYYY'),  mean time (days): 269.8,  stddev (days): 68.6527493987, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'NYNN'),  mean time (days): 30.9657147855,  stddev (days): 71.4647261331, number of entries: 22867
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'YYNN'),  mean time (days): 142.909090909,  stddev (days): 134.962553729, number of entries: 11
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'NYYY'),  mean time (days): 123.15,  stddev (days): 83.5396376137, number of entries: 20
+Key SUBDESC:PERMITFLAG value: ('Office', 'NNYN'),  mean time (days): 63.4730538922,  stddev (days): 101.410403028, number of entries: 334
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'YYNY'),  mean time (days): 200.267857143,  stddev (days): 226.049672021, number of entries: 56
+Key SUBDESC:PERMITFLAG value: ('Agricultural Building', 'NNNY'),  mean time (days): 642.0,  stddev (days): 861.256059485, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'YYNY'),  mean time (days): 280.636363636,  stddev (days): 173.580460123, number of entries: 33
+Key SUBDESC:PERMITFLAG value: ('Store', 'NNNN'),  mean time (days): 239.981481481,  stddev (days): 476.316903021, number of entries: 54
+Key SUBDESC:PERMITFLAG value: ('Office', 'NNNY'),  mean time (days): 80.6487119438,  stddev (days): 100.634021026, number of entries: 1281
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'NYNN'),  mean time (days): 29.0354330709,  stddev (days): 49.7337955373, number of entries: 508
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'NYYY'),  mean time (days): 196.0,  stddev (days): 187.621960335, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Halfway House', 'NNNY'),  mean time (days): 6.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'YNYN'),  mean time (days): 70.8524590164,  stddev (days): 96.9585983154, number of entries: 122
+Key SUBDESC:PERMITFLAG value: ('Canopy Buildings', 'YNNN'),  mean time (days): 219.5,  stddev (days): 230.358416386, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Retail', 'NNNN'),  mean time (days): 264.834437086,  stddev (days): 636.909343946, number of entries: 151
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'YYYN'),  mean time (days): 202.205882353,  stddev (days): 334.439538352, number of entries: 34
+Key SUBDESC:PERMITFLAG value: ('Tract Site Work', 'NYNY'),  mean time (days): 126.5,  stddev (days): 133.643181644, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'NYNY'),  mean time (days): 341.333333333,  stddev (days): 212.241214973, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Convalescent/Residential Care', 'YNNY'),  mean time (days): 286.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'NNYN'),  mean time (days): 60.7,  stddev (days): 104.242682439, number of entries: 20
+Key SUBDESC:PERMITFLAG value: ('Halfway House', 'NNYN'),  mean time (days): 22.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'YNYN'),  mean time (days): 99.5,  stddev (days): 4.94974746831, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'NNYY'),  mean time (days): 56.2954545455,  stddev (days): 90.6625876902, number of entries: 88
+Key SUBDESC:PERMITFLAG value: ('Office', 'YNNY'),  mean time (days): 131.175362319,  stddev (days): 172.123507574, number of entries: 690
+Key SUBDESC:PERMITFLAG value: ('Convalescent/Residential Care', 'NYYY'),  mean time (days): 144.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Bank', 'YNYY'),  mean time (days): 160.86,  stddev (days): 230.690357892, number of entries: 50
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'YYYY'),  mean time (days): 199.620253165,  stddev (days): 218.791394841, number of entries: 79
+Key SUBDESC:PERMITFLAG value: ('Cafeteria', 'YNYY'),  mean time (days): 73.6666666667,  stddev (days): 9.71253485622, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'YNYY'),  mean time (days): 112.1,  stddev (days): 62.0258906515, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('Temporary Use', 'NNNY'),  mean time (days): 31.9875,  stddev (days): 70.8180935455, number of entries: 80
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'NNYY'),  mean time (days): 62.2079207921,  stddev (days): 73.0717889245, number of entries: 101
+Key SUBDESC:PERMITFLAG value: ('Online Permits', 'YNNN'),  mean time (days): 31.5812449475,  stddev (days): 170.01976157, number of entries: 1237
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'YYNN'),  mean time (days): 180.888888889,  stddev (days): 313.284393341, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'NYNY'),  mean time (days): 314.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Church', 'NNNN'),  mean time (days): 568.0,  stddev (days): 274.634909167, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'YNNY'),  mean time (days): 122.8,  stddev (days): 109.030729613, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Temporary Use', 'NYNN'),  mean time (days): 9.33333333333,  stddev (days): 4.04145188433, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'YYYY'),  mean time (days): 292.127329193,  stddev (days): 245.602493845, number of entries: 322
+Key SUBDESC:PERMITFLAG value: ('Church', 'YYYY'),  mean time (days): 413.153846154,  stddev (days): 374.44060301, number of entries: 39
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'YNNN'),  mean time (days): 89.2276467361,  stddev (days): 162.339280525, number of entries: 1823
+Key SUBDESC:PERMITFLAG value: ('Store', 'YNNY'),  mean time (days): 64.1666666667,  stddev (days): 40.8872433244, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'YYNN'),  mean time (days): 27.8333333333,  stddev (days): 35.650619443, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Condo', 'YYYY'),  mean time (days): 405.484536082,  stddev (days): 425.961736913, number of entries: 194
+Key SUBDESC:PERMITFLAG value: ('Store', 'YNNN'),  mean time (days): 106.576923077,  stddev (days): 167.720046047, number of entries: 26
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'YNNY'),  mean time (days): 156.0,  stddev (days): 100.153631986, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'YYYY'),  mean time (days): 403.113553114,  stddev (days): 239.179567971, number of entries: 273
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'NNYY'),  mean time (days): 47.0,  stddev (days): 7.07106781187, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'YNYN'),  mean time (days): 196.285714286,  stddev (days): 14.3841844366, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'NNNY'),  mean time (days): 53.3362445415,  stddev (days): 81.8360338954, number of entries: 229
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'NYNN'),  mean time (days): 92.7619047619,  stddev (days): 197.334463478, number of entries: 21
+Key SUBDESC:PERMITFLAG value: ('Office', 'YYNN'),  mean time (days): 144.3375,  stddev (days): 245.86210727, number of entries: 80
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'YYNN'),  mean time (days): 109.25,  stddev (days): 76.2512294983, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Office', 'NNNN'),  mean time (days): 659.5,  stddev (days): 122.750424303, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Hazardous Use', 'NNNN'),  mean time (days): 357.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'NYYY'),  mean time (days): 113.574193548,  stddev (days): 126.750596115, number of entries: 155
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'YNYN'),  mean time (days): 20.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Retail', 'YNNY'),  mean time (days): 131.275438596,  stddev (days): 195.61578566, number of entries: 570
+Key SUBDESC:PERMITFLAG value: ('Retail', 'NYNN'),  mean time (days): 91.3228346457,  stddev (days): 164.85334225, number of entries: 381
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'YNNY'),  mean time (days): 426.416666667,  stddev (days): 643.339364472, number of entries: 12
+Key SUBDESC:PERMITFLAG value: ('Auditorium', 'YNYY'),  mean time (days): 105.0,  stddev (days): 69.2964645563, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'NNYN'),  mean time (days): 136.714285714,  stddev (days): 196.173999539, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Office', 'YYYN'),  mean time (days): 136.0,  stddev (days): 153.935144043, number of entries: 71
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'YNNN'),  mean time (days): 116.98680436,  stddev (days): 172.429487238, number of entries: 1743
+Key SUBDESC:PERMITFLAG value: ('Online Permits', 'NYNN'),  mean time (days): 33.5115151515,  stddev (days): 48.2838510035, number of entries: 825
+Key SUBDESC:PERMITFLAG value: ('Theater', 'YYYY'),  mean time (days): 663.0,  stddev (days): 548.714862201, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Online Permits', 'NNNN'),  mean time (days): 147.125748503,  stddev (days): 419.566381046, number of entries: 334
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'NYNN'),  mean time (days): 192.354166667,  stddev (days): 228.771510053, number of entries: 48
+Key SUBDESC:PERMITFLAG value: ('Office', 'NNNN'),  mean time (days): 337.757188498,  stddev (days): 877.855252704, number of entries: 313
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'YYNN'),  mean time (days): 190.655172414,  stddev (days): 149.627698892, number of entries: 29
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'YYYN'),  mean time (days): 320.909090909,  stddev (days): 357.879436276, number of entries: 11
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'NNNY'),  mean time (days): 123.626865672,  stddev (days): 149.211141413, number of entries: 67
+Key SUBDESC:PERMITFLAG value: ('', 'NNNY'),  mean time (days): 10351.5,  stddev (days): 3561.69685684, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'NYNN'),  mean time (days): 137.786885246,  stddev (days): 353.466081105, number of entries: 61
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'NYNN'),  mean time (days): 81.2682926829,  stddev (days): 150.963003299, number of entries: 82
+Key SUBDESC:PERMITFLAG value: ('Temporary Use', 'YNNN'),  mean time (days): 262.789473684,  stddev (days): 859.603046563, number of entries: 19
+Key SUBDESC:PERMITFLAG value: ('Store', 'YYYN'),  mean time (days): 503.75,  stddev (days): 439.333870763, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Halfway House', 'NYNN'),  mean time (days): 16.0,  stddev (days): 1.41421356237, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'YYNY'),  mean time (days): 154.078947368,  stddev (days): 158.944046177, number of entries: 38
+Key SUBDESC:PERMITFLAG value: ('Convalescent/Residential Care', 'YYYY'),  mean time (days): 180.2,  stddev (days): 90.5715187021, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Church', 'YYNY'),  mean time (days): 254.714285714,  stddev (days): 235.813990457, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'NYYY'),  mean time (days): 108.673469388,  stddev (days): 127.409835399, number of entries: 49
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'YYYY'),  mean time (days): 261.556420233,  stddev (days): 285.063845863, number of entries: 257
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Office', 'YYYN'),  mean time (days): 692.8,  stddev (days): 531.0171372, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Hazardous Use', 'NNNY'),  mean time (days): 119.5,  stddev (days): 150.202590463, number of entries: 12
+Key SUBDESC:PERMITFLAG value: ('Closed Public Parking Garage', 'YNNY'),  mean time (days): 284.666666667,  stddev (days): 378.513319889, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Non-Voluntary', 'YNNN'),  mean time (days): 650.973684211,  stddev (days): 737.461514776, number of entries: 38
+Key SUBDESC:PERMITFLAG value: ('Information Only', 'NNNN'),  mean time (days): 0.0,  stddev (days): 0.0, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'NNNY'),  mean time (days): 48.115942029,  stddev (days): 61.9842333444, number of entries: 69
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'NYYN'),  mean time (days): 105.2,  stddev (days): 143.356490377, number of entries: 25
+Key SUBDESC:PERMITFLAG value: ('Multiple Use', 'YYYY'),  mean time (days): 659.0,  stddev (days): 376.28685866, number of entries: 11
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'YYYY'),  mean time (days): 211.881147541,  stddev (days): 264.310887167, number of entries: 244
+Key SUBDESC:PERMITFLAG value: ('Church', 'NNYN'),  mean time (days): 266.0625,  stddev (days): 496.37827897, number of entries: 16
+Key SUBDESC:PERMITFLAG value: ('Bowling Alley', 'YYYN'),  mean time (days): 246.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'YNNN'),  mean time (days): 119.65,  stddev (days): 109.279590717, number of entries: 20
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'YNNN'),  mean time (days): 77.6666666667,  stddev (days): 125.910742796, number of entries: 12
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'YNYN'),  mean time (days): 148.15625,  stddev (days): 173.296149535, number of entries: 32
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'NNNN'),  mean time (days): 397.333333333,  stddev (days): 380.108756367, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Office', 'YYYY'),  mean time (days): 156.536308623,  stddev (days): 188.910295486, number of entries: 1322
+Key SUBDESC:PERMITFLAG value: ('Bowling Alley', 'YNNY'),  mean time (days): 435.5,  stddev (days): 154.85638508, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Condo', 'NNNY'),  mean time (days): 37.6795774648,  stddev (days): 102.552061097, number of entries: 284
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'NYNN'),  mean time (days): 82.9866071429,  stddev (days): 158.98609466, number of entries: 224
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'NNYN'),  mean time (days): 54.2247191011,  stddev (days): 86.3924387486, number of entries: 89
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'YNNN'),  mean time (days): 171.513513514,  stddev (days): 240.284047376, number of entries: 37
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'YYYY'),  mean time (days): 238.147058824,  stddev (days): 165.460447046, number of entries: 34
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'YNYY'),  mean time (days): 220.6,  stddev (days): 132.26980003, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Warehouse', 'NNNY'),  mean time (days): 182.25,  stddev (days): 182.671608814, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Tract Site Work', 'NYNN'),  mean time (days): 331.636363636,  stddev (days): 370.189596913, number of entries: 22
+Key SUBDESC:PERMITFLAG value: ('Church', 'NNNY'),  mean time (days): 122.8875,  stddev (days): 165.059252403, number of entries: 80
+Key SUBDESC:PERMITFLAG value: ('Cafeteria', 'YNNN'),  mean time (days): 70.5,  stddev (days): 96.559135594, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'NYNY'),  mean time (days): 340.5,  stddev (days): 82.7314933988, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'YYNN'),  mean time (days): 34.0,  stddev (days): 1.41421356237, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'YNYY'),  mean time (days): 245.318181818,  stddev (days): 243.267320406, number of entries: 22
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'NYNN'),  mean time (days): 99.2203389831,  stddev (days): 199.469301743, number of entries: 59
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'YNNN'),  mean time (days): 143.885964912,  stddev (days): 145.103427182, number of entries: 114
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'NYYN'),  mean time (days): 50.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Office', 'YYYY'),  mean time (days): 211.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'YYNY'),  mean time (days): 337.090909091,  stddev (days): 242.425021211, number of entries: 11
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'NNNN'),  mean time (days): 374.5,  stddev (days): 253.851334446, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'YNYN'),  mean time (days): 66.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Theater', 'YNNN'),  mean time (days): 220.0,  stddev (days): 445.36090234, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'NYYN'),  mean time (days): 55.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'YNNN'),  mean time (days): 105.817109145,  stddev (days): 170.304154129, number of entries: 339
+Key SUBDESC:PERMITFLAG value: ('Halfway House', 'YNNN'),  mean time (days): 106.5,  stddev (days): 95.4594154602, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'YNYY'),  mean time (days): 132.155172414,  stddev (days): 153.193811625, number of entries: 58
+Key SUBDESC:PERMITFLAG value: ('', 'YYYY'),  mean time (days): 380.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Multi Family', 'YNNN'),  mean time (days): 1.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'NYNY'),  mean time (days): 91.3776387803,  stddev (days): 118.70828845, number of entries: 1279
+Key SUBDESC:PERMITFLAG value: ('Church', 'NYNY'),  mean time (days): 508.75,  stddev (days): 292.904279017, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Condo', 'NNNN'),  mean time (days): 322.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'YNNN'),  mean time (days): 139.625,  stddev (days): 89.2635543929, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'YNYN'),  mean time (days): 581.833333333,  stddev (days): 468.986318208, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Service Station', 'YYNN'),  mean time (days): 156.9375,  stddev (days): 216.591002814, number of entries: 16
+Key SUBDESC:PERMITFLAG value: ('Condo', 'YYNY'),  mean time (days): 275.5625,  stddev (days): 255.388062564, number of entries: 16
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'YNNY'),  mean time (days): 207.769230769,  stddev (days): 151.122373128, number of entries: 39
+Key SUBDESC:PERMITFLAG value: ('Condo', 'NYYY'),  mean time (days): 100.826086957,  stddev (days): 103.72232112, number of entries: 138
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'YYYY'),  mean time (days): 374.5,  stddev (days): 248.598851343, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'NYYN'),  mean time (days): 166.162162162,  stddev (days): 211.467296331, number of entries: 37
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'NNNY'),  mean time (days): 45.9101226061,  stddev (days): 70.7793300421, number of entries: 19738
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'YYYN'),  mean time (days): 114.235294118,  stddev (days): 144.386430029, number of entries: 17
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'NNYN'),  mean time (days): 235.428571429,  stddev (days): 260.475755201, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'YNNY'),  mean time (days): 87.5483870968,  stddev (days): 84.9026260723, number of entries: 31
+Key SUBDESC:PERMITFLAG value: ('Bowling Alley', 'NNNY'),  mean time (days): 124.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'NNYY'),  mean time (days): 119.4,  stddev (days): 151.485312819, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'YNYY'),  mean time (days): 171.357142857,  stddev (days): 152.270814994, number of entries: 14
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'NNYN'),  mean time (days): 131.062893082,  stddev (days): 161.488984832, number of entries: 159
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'YYYN'),  mean time (days): 7.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'NNYY'),  mean time (days): 53.0,  stddev (days): 40.5092582011, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Theater', 'YNNY'),  mean time (days): 235.571428571,  stddev (days): 241.144394601, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'NNNN'),  mean time (days): 210.1,  stddev (days): 190.33505545, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('Online Permits', 'NYYY'),  mean time (days): 263.625,  stddev (days): 448.238437027, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'YNNN'),  mean time (days): 240.147058824,  stddev (days): 269.29527923, number of entries: 34
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'NYYY'),  mean time (days): 341.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Retail', 'NYNY'),  mean time (days): 144.6875,  stddev (days): 154.822986853, number of entries: 32
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'NNNN'),  mean time (days): 391.333333333,  stddev (days): 701.282863588, number of entries: 57
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'NNYN'),  mean time (days): 31.094488189,  stddev (days): 34.9894390123, number of entries: 127
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Warehouse', 'YYNN'),  mean time (days): 61.0,  stddev (days): 31.1126983722, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Temporary Use', 'YNYY'),  mean time (days): 133.636363636,  stddev (days): 227.72802758, number of entries: 11
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'YYNY'),  mean time (days): 402.658227848,  stddev (days): 207.714108633, number of entries: 79
+Key SUBDESC:PERMITFLAG value: ('Church', 'NYNN'),  mean time (days): 111.816326531,  stddev (days): 232.508035118, number of entries: 49
+Key SUBDESC:PERMITFLAG value: ('2nd Unit Added', 'YYYY'),  mean time (days): 429.402061856,  stddev (days): 454.099077382, number of entries: 97
+Key SUBDESC:PERMITFLAG value: ('Office', 'NYNN'),  mean time (days): 74.5756880734,  stddev (days): 116.149472686, number of entries: 436
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'YNNN'),  mean time (days): 74.6193181818,  stddev (days): 68.9644140943, number of entries: 880
+Key SUBDESC:PERMITFLAG value: ('Cafeteria', 'NNNY'),  mean time (days): 314.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'YYYY'),  mean time (days): 168.37037037,  stddev (days): 129.448875607, number of entries: 27
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'NYNY'),  mean time (days): 72.2222222222,  stddev (days): 96.1883280052, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'YNNN'),  mean time (days): 31.4300190827,  stddev (days): 80.6502836587, number of entries: 30394
+Key SUBDESC:PERMITFLAG value: ('Retail', 'YYYN'),  mean time (days): 311.102272727,  stddev (days): 400.800378547, number of entries: 88
+Key SUBDESC:PERMITFLAG value: ('Temporary Use', 'NYNY'),  mean time (days): 610.0,  stddev (days): 830.143361113, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'NNNY'),  mean time (days): 75.134502924,  stddev (days): 81.2779245198, number of entries: 513
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'YNYY'),  mean time (days): 157.054216867,  stddev (days): 165.6881742, number of entries: 332
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'NYYN'),  mean time (days): 171.5,  stddev (days): 4.94974746831, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'YYYN'),  mean time (days): 160.04,  stddev (days): 135.181507611, number of entries: 25
+Key SUBDESC:PERMITFLAG value: ('Voluntary', 'YNNN'),  mean time (days): 69.875,  stddev (days): 162.122914129, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Survey', 'NYNY'),  mean time (days): 88.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Closed Public Parking Garage', 'NNNN'),  mean time (days): 388.72972973,  stddev (days): 240.243932592, number of entries: 37
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'YNNN'),  mean time (days): 127.717948718,  stddev (days): 130.996574627, number of entries: 39
+Key SUBDESC:PERMITFLAG value: ('Cafeteria', 'YYYN'),  mean time (days): 63.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'NNNN'),  mean time (days): -9.0,  stddev (days): 151.256404823, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'NNYN'),  mean time (days): 248.5,  stddev (days): 424.870764665, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('Hazardous Use', 'YYYY'),  mean time (days): 238.2,  stddev (days): 199.137389759, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Online Permits', 'NNYN'),  mean time (days): 54.2,  stddev (days): 62.6998139285, number of entries: 115
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'YNNY'),  mean time (days): 251.818181818,  stddev (days): 322.131980696, number of entries: 22
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'YYNY'),  mean time (days): 319.5,  stddev (days): 434.239450073, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Bank', 'YYNY'),  mean time (days): 201.25,  stddev (days): 112.591814386, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Temporary Use', 'YYYN'),  mean time (days): 55.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'NYNY'),  mean time (days): 68.2631578947,  stddev (days): 48.7850638632, number of entries: 19
+Key SUBDESC:PERMITFLAG value: ('Bank', 'NYYY'),  mean time (days): 68.3333333333,  stddev (days): 10.0166528009, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Office', 'NYNY'),  mean time (days): 150.647058824,  stddev (days): 134.890205897, number of entries: 17
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'NNYY'),  mean time (days): 34.6666666667,  stddev (days): 27.8741761667, number of entries: 12
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'YNYN'),  mean time (days): 142.111111111,  stddev (days): 140.076268908, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'YNYY'),  mean time (days): 278.666666667,  stddev (days): 160.2131913, number of entries: 6
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'NYYY'),  mean time (days): 134.0,  stddev (days): 115.58114033, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Store', 'YYNY'),  mean time (days): 115.0,  stddev (days): 59.6322060635, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Bank', 'YNNN'),  mean time (days): 86.71875,  stddev (days): 66.5001417232, number of entries: 64
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'NNYY'),  mean time (days): 66.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Temporary Use', 'YYNY'),  mean time (days): 271.7,  stddev (days): 493.217565245, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('Warehouse/Storage', 'YNYY'),  mean time (days): 131.27027027,  stddev (days): 114.99080336, number of entries: 74
+Key SUBDESC:PERMITFLAG value: ('Open Public Parking Garage', 'NNNN'),  mean time (days): 665.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Store', 'NYNN'),  mean time (days): 125.363636364,  stddev (days): 106.036100199, number of entries: 11
+Key SUBDESC:PERMITFLAG value: ('Lodge/Summer Camp', 'NYNN'),  mean time (days): 75.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'YNYY'),  mean time (days): 240.7,  stddev (days): 260.820991244, number of entries: 20
+Key SUBDESC:PERMITFLAG value: ('Condo', 'NNYN'),  mean time (days): 42.5523809524,  stddev (days): 83.9436449091, number of entries: 210
+Key SUBDESC:PERMITFLAG value: ('Antenna/Cell Site', 'YNYY'),  mean time (days): 223.4375,  stddev (days): 148.207947943, number of entries: 16
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'NYYY'),  mean time (days): 101.170196479,  stddev (days): 135.693736282, number of entries: 3919
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'YYYY'),  mean time (days): 383.882352941,  stddev (days): 244.080386951, number of entries: 17
+Key SUBDESC:PERMITFLAG value: ('Hazardous Use', 'YNNY'),  mean time (days): 142.857142857,  stddev (days): 95.36146771, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'YNNN'),  mean time (days): 125.634735202,  stddev (days): 141.711720624, number of entries: 1284
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'YNYN'),  mean time (days): 94.652173913,  stddev (days): 50.9158027761, number of entries: 23
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'YYNY'),  mean time (days): 330.639344262,  stddev (days): 262.767897125, number of entries: 61
+Key SUBDESC:PERMITFLAG value: ('Survey', 'YNNN'),  mean time (days): 215.147058824,  stddev (days): 529.037670215, number of entries: 34
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'NNYN'),  mean time (days): 34.9026039905,  stddev (days): 60.6538028354, number of entries: 5914
+Key SUBDESC:PERMITFLAG value: ('Open Public Parking Garage', 'NNYN'),  mean time (days): 12.0,  stddev (days): 13.0, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'YYNY'),  mean time (days): 22.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'YNYY'),  mean time (days): 98.1818181818,  stddev (days): 63.6377532316, number of entries: 11
+Key SUBDESC:PERMITFLAG value: ('Agricultural Building', 'YNNY'),  mean time (days): 16.5,  stddev (days): 12.0208152802, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Apartment/Condo', 'NYYY'),  mean time (days): 188.068493151,  stddev (days): 291.935130198, number of entries: 73
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'NNNN'),  mean time (days): 535.777777778,  stddev (days): 188.248676231, number of entries: 27
+Key SUBDESC:PERMITFLAG value: ('Halfway House', 'NYYN'),  mean time (days): 15.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'NNYN'),  mean time (days): 51.5142857143,  stddev (days): 50.595509584, number of entries: 70
+Key SUBDESC:PERMITFLAG value: ('Closed Public Parking Garage', 'YNNN'),  mean time (days): 64.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'YNYY'),  mean time (days): 136.333333333,  stddev (days): 181.674684689, number of entries: 42
+Key SUBDESC:PERMITFLAG value: ('Industrial Plant', 'YYYY'),  mean time (days): 274.529411765,  stddev (days): 168.761709833, number of entries: 17
+Key SUBDESC:PERMITFLAG value: ('Convalescent/Residential Care', 'NNYN'),  mean time (days): 30.1428571429,  stddev (days): 58.2649939827, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Recreation Building', 'NNYN'),  mean time (days): 42.0,  stddev (days): 39.9499687109, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('R & D Lab', 'YYYN'),  mean time (days): 113.5,  stddev (days): 83.9982993025, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'NYNY'),  mean time (days): 96.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Convalescent/Residential Care', 'YYNN'),  mean time (days): 141.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Hazardous Use', 'NNYN'),  mean time (days): 21.0,  stddev (days): 23.3023603955, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Bowling Alley', 'YNNN'),  mean time (days): 75.3333333333,  stddev (days): 84.8783443131, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'YYNY'),  mean time (days): 128.75,  stddev (days): 97.3868807666, number of entries: 12
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'NNYY'),  mean time (days): 74.9444444444,  stddev (days): 71.9775064719, number of entries: 18
+Key SUBDESC:PERMITFLAG value: ('Multiple Use', 'NNYY'),  mean time (days): 93.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Code Enforcement', 'NNNN'),  mean time (days): 521.333333333,  stddev (days): 567.895530299, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'NYNN'),  mean time (days): 161.277777778,  stddev (days): 161.386494568, number of entries: 54
+Key SUBDESC:PERMITFLAG value: ('Condo', 'NYNY'),  mean time (days): 172.93877551,  stddev (days): 317.773334323, number of entries: 49
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'NNYY'),  mean time (days): 50.2222222222,  stddev (days): 24.686928615, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('Assembly', 'NNNY'),  mean time (days): 116.777777778,  stddev (days): 143.245978151, number of entries: 27
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'YYNY'),  mean time (days): 212.7,  stddev (days): 120.329224307, number of entries: 10
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'YNYY'),  mean time (days): 166.834143378,  stddev (days): 157.094085841, number of entries: 1646
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'YYNN'),  mean time (days): 113.5,  stddev (days): 54.4211968507, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'NYYN'),  mean time (days): 65.6666666667,  stddev (days): 81.4514170124, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'NYYN'),  mean time (days): 81.9691358025,  stddev (days): 221.293801117, number of entries: 324
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'NYYN'),  mean time (days): 278.5,  stddev (days): 60.1040764009, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Mixed Use', 'NNNY'),  mean time (days): 111.018867925,  stddev (days): 187.687073971, number of entries: 106
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'NYYN'),  mean time (days): 94.6587677725,  stddev (days): 200.6435056, number of entries: 211
+Key SUBDESC:PERMITFLAG value: ('Auditorium', 'YYYY'),  mean time (days): 183.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Condo', 'YNNN'),  mean time (days): 110.310661765,  stddev (days): 163.563735812, number of entries: 1088
+Key SUBDESC:PERMITFLAG value: ('Church', 'YYYN'),  mean time (days): 311.5,  stddev (days): 37.4766594029, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Single Family', 'NNYY'),  mean time (days): 53.3061584224,  stddev (days): 85.6859125202, number of entries: 9077
+Key SUBDESC:PERMITFLAG value: ('Duplex', 'YNYN'),  mean time (days): 68.0,  stddev (days): 42.5793377121, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Manufactured Home', 'NNNN'),  mean time (days): 385.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Commercial/Industrial', 'NNNY'),  mean time (days): 3.5,  stddev (days): 0.707106781187, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Hazardous Use', 'YYYN'),  mean time (days): 399.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Survey', 'NYNN'),  mean time (days): 27.5,  stddev (days): 37.4766594029, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'YNNN'),  mean time (days): 144.313479624,  stddev (days): 227.622374662, number of entries: 319
+Key SUBDESC:PERMITFLAG value: ('Medical/Dental Clinic', 'NYNY'),  mean time (days): 50.0,  stddev (days): 48.0832611207, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Store', 'YYYY'),  mean time (days): 332.181818182,  stddev (days): 308.031757513, number of entries: 11
+Key SUBDESC:PERMITFLAG value: ('Open Public Parking Garage', 'YNYN'),  mean time (days): 13.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Closed Public Parking Garage', 'NYNY'),  mean time (days): 78.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Bank', 'NNYN'),  mean time (days): 81.2,  stddev (days): 55.8632258288, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Repair Garage', 'NNNY'),  mean time (days): 111.210526316,  stddev (days): 127.077792283, number of entries: 38
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'NNYN'),  mean time (days): 50.8345864662,  stddev (days): 83.680654284, number of entries: 798
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'YYYN'),  mean time (days): 444.333333333,  stddev (days): 123.581282294, number of entries: 3
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Warehouse', 'NYNN'),  mean time (days): 197.0,  stddev (days): 214.960461481, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'NNYN'),  mean time (days): 48.6,  stddev (days): 52.6193880618, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('School/Daycare', 'NYNY'),  mean time (days): 282.6,  stddev (days): 106.387499266, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Survey', 'NNNY'),  mean time (days): 22.56,  stddev (days): 62.5859941734, number of entries: 25
+Key SUBDESC:PERMITFLAG value: ('Restaurant', 'NYYY'),  mean time (days): 148.837209302,  stddev (days): 213.619257451, number of entries: 43
+Key SUBDESC:PERMITFLAG value: ('Open Public Parking Garage', 'NYYY'),  mean time (days): 212.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Address Assignment', 'NNNN'),  mean time (days): 2.8275862069,  stddev (days): 48.4768167311, number of entries: 667
+Key SUBDESC:PERMITFLAG value: ('Temporary Use', 'NNYN'),  mean time (days): 17.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Cafeteria', 'NYNN'),  mean time (days): 98.0,  stddev (days): 125.680149586, number of entries: 5
+Key SUBDESC:PERMITFLAG value: ('Theater', 'NNNY'),  mean time (days): 53.5,  stddev (days): 64.1805489003, number of entries: 8
+Key SUBDESC:PERMITFLAG value: ('Apartment', 'NNNY'),  mean time (days): 92.4926931106,  stddev (days): 153.917312777, number of entries: 479
+Key SUBDESC:PERMITFLAG value: ('Convalescent/Residential Care', 'NYNN'),  mean time (days): 68.9285714286,  stddev (days): 186.883947652, number of entries: 14
+Key SUBDESC:PERMITFLAG value: ('Health Club', 'NNNY'),  mean time (days): 118.68,  stddev (days): 182.406076288, number of entries: 25
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'YNNN'),  mean time (days): 60.9193548387,  stddev (days): 72.2718927732, number of entries: 310
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'NYYY'),  mean time (days): 123.571428571,  stddev (days): 69.0624286253, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Antenna/Cell Site', 'NNNN'),  mean time (days): 184.888888889,  stddev (days): 162.181568346, number of entries: 9
+Key SUBDESC:PERMITFLAG value: ('SRO/Fraternity/Shelter', 'YYNN'),  mean time (days): 31.0,  stddev (days): 11.313708499, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Single Dwelling Unit', 'YYYY'),  mean time (days): 154.913793103,  stddev (days): 154.816278722, number of entries: 58
+Key SUBDESC:PERMITFLAG value: ('Residential Care', 'YNYY'),  mean time (days): 93.5,  stddev (days): 77.0746391493, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Office', 'YNYY'),  mean time (days): 132.017608897,  stddev (days): 205.779662829, number of entries: 1079
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'NNYN'),  mean time (days): 51.4463519313,  stddev (days): 146.965624344, number of entries: 233
+Key SUBDESC:PERMITFLAG value: ('Cafeteria', 'YNNY'),  mean time (days): 73.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'NNNY'),  mean time (days): 154.334134615,  stddev (days): 399.714574537, number of entries: 416
+Key SUBDESC:PERMITFLAG value: ('Undefined', 'YNYN'),  mean time (days): 39.0,  stddev (days): 7.07106781187, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('High Rise', 'YNYN'),  mean time (days): 154.0,  stddev (days): nan, number of entries: 1
+Key SUBDESC:PERMITFLAG value: ('Multiple Use', 'NNNN'),  mean time (days): 701.0,  stddev (days): 271.235445078, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Townhouse', 'YNYY'),  mean time (days): 48.5,  stddev (days): 37.7049952482, number of entries: 4
+Key SUBDESC:PERMITFLAG value: ('Apt/Condo/Townhouse', 'NYYN'),  mean time (days): 96.7586206897,  stddev (days): 236.665644116, number of entries: 87
+Key SUBDESC:PERMITFLAG value: ('Manufacturing', 'NYNN'),  mean time (days): 87.796875,  stddev (days): 107.635360285, number of entries: 64
+Key SUBDESC:PERMITFLAG value: ('Hotel/Motel', 'YNYY'),  mean time (days): 239.0,  stddev (days): 142.751532391, number of entries: 7
+Key SUBDESC:PERMITFLAG value: ('Tilt Up Office', 'NYYN'),  mean time (days): 160.5,  stddev (days): 0.707106781187, number of entries: 2
+Key SUBDESC:PERMITFLAG value: ('Carnivals and Fairs', 'NYYY'),  mean time (days): 6.0,  stddev (days): nan, number of entries: 1
