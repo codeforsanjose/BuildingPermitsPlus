@@ -8,8 +8,10 @@ How It Works:
 =============
 
 ::
+
    python scripts/permit_reader.py all_out.csv --analysis_key ISSUEDATE
 
 Here:
+
 * all_out.csv is the file that it is going to process
 * analysis_key is the pivot key (ISSUEDATE). It will calculate the mean and standard deviation of all individual entries in that column.
