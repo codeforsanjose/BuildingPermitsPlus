@@ -32,7 +32,8 @@ def date_parse(input):
 @click.command()
 @click.argument('input_file')
 @click.option('--analysis_key', default='SUBCODE', help='Key to pivot on')
-def run(input_file, analysis_key):
+@click.option('--secondary_key', default=None, help='Secondary pivot key')
+def run(input_file, analysis_key, secondary_key):
                     
     with open(input_file, 'r') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',', fieldnames=FIELDNAMES)
@@ -54,11 +55,17 @@ def run(input_file, analysis_key):
                 continue
 
         df = pd.DataFrame(full_dataset)
-        means = df.groupby(analysis_key).INTERVAL.mean().to_dict()
-        stddevs = df.groupby(analysis_key).INTERVAL.std().to_dict()
+        if secondary_key is not None:
+            group_by = [analysis_key, secondary_key]
+            keyname = '{}:{}'.format(analysis_key, secondary_key)
+        else:
+            group_by = analysis_key
+            keyname = analysis_key
+        means = df.groupby(group_by).INTERVAL.mean().to_dict()
+        stddevs = df.groupby(group_by).INTERVAL.std().to_dict()
         for k, v in means.items():
             msg = 'Key {} value: {},  mean time (days): {},  stddev (days): {}'
-            msg = msg.format(analysis_key, k, v, stddevs.get(k, 'NULL'))
+            msg = msg.format(keyname, k, v, stddevs.get(k, 'NULL'))
             print(msg)
                 
 
