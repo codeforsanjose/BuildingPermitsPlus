@@ -16,11 +16,6 @@ FIELDNAMES = ['TRACT', 'APN', 'ISSUEDATE', 'FINALDATE', 'LOT',
               'REROOFVALUATION', 'SQFT', 'DWELLUNITS', 'FOLDERRSN',
               'SWIMMINGPOOL', 'SEWER', 'ENTERPRISE', 'PERMITFLAG']
 
-def average(values):
-    if len(values) < 1:
-        return 0
-    return sum(values)/len(values)
-
 def date_parse(input):
     """
     Take a string and turn it into a date
@@ -42,7 +37,6 @@ def run(input_file, analysis_key):
     with open(input_file, 'r') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',', fieldnames=FIELDNAMES)
         output = defaultdict(list)
-        averages = {}
         full_dataset = []
         for row in reader:
             try:
