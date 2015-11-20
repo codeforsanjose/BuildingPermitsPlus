@@ -63,9 +63,12 @@ def run(input_file, analysis_key, secondary_key):
             keyname = analysis_key
         means = df.groupby(group_by).INTERVAL.mean().to_dict()
         stddevs = df.groupby(group_by).INTERVAL.std().to_dict()
+        counts = df.groupby(group_by).INTERVAL.count().to_dict()
         for k, v in means.items():
-            msg = 'Key {} value: {},  mean time (days): {},  stddev (days): {}'
-            msg = msg.format(keyname, k, v, stddevs.get(k, 'NULL'))
+            msg = ('Key {} value: {},  mean time (days): {},  '
+                   'stddev (days): {}, number of entries: {}')
+            msg = msg.format(keyname, k, v, stddevs.get(k, 'NULL'),
+                             counts.get(k, 'NULL'))
             print(msg)
                 
 
