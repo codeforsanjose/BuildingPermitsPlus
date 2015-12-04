@@ -1,5 +1,6 @@
 import sys
 import csv
+import json
 import click
 import datetime
 import calendar
@@ -33,7 +34,12 @@ def date_parse(input):
 @click.argument('input_file')
 @click.option('--analysis_key', default='SUBCODE', help='Key to pivot on')
 @click.option('--secondary_key', default=None, help='Secondary pivot key')
-def run(input_file, analysis_key, secondary_key):
+@click.option('--output_format', default='print',
+              help='Way to output final data')
+@click.option('--output_file', default='output.out',
+              help='File to write output to. Does not effect print.')
+def run(input_file, analysis_key, secondary_key, output_format,
+        output_file):
                     
     with open(input_file, 'r') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',', fieldnames=FIELDNAMES)
@@ -70,8 +76,24 @@ def run(input_file, analysis_key, secondary_key):
                         'stddev (days)': stddevs.get(key, 'NULL'),
                         'number of entries': counts.get(key, 'NULL')}
                        for key, mean in means.items()]
-        for row in output_data:
-            print(row)
+        if len(output_data) == 0:
+            # No data
+            print('No data at end!')
+            sys.exit(0)
+        if output_format == 'print':
+            for row in output_data:
+                print(row)
+        elif output_format == 'json':
+            with open(output_file, 'w') as f:
+                json.dump(output_data, f)
+        elif output_format == 'csv':
+            with open(output_file, 'w') as csvfile:
+                fieldnames = output_data[0].keys()
+                writer = csv.DictWriter(csvfile,
+                                        fieldnames=fieldnames)
+                writer.writeheader()
+                for row in output_data:
+                    writer.writerow(row)
                 
 
 
