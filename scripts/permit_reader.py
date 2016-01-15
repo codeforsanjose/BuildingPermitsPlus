@@ -73,8 +73,8 @@ def run(input_file, analysis_key, secondary_key, output_format,
         counts = interval_dataseries.count().to_dict()
         output_data = [{'keyname': keyname, 'key': key,
                         'mean time (days)': mean,
-                        'stddev (days)': stddevs.get(key, 'NULL'),
-                        'number of entries': counts.get(key, 'NULL')}
+                        'stddev (days)': stddevs.get(key, None),
+                        'number of entries': counts.get(key, None)}
                        for key, mean in means.items()]
         if len(output_data) == 0:
             # No data

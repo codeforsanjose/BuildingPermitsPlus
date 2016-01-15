@@ -9,7 +9,7 @@ How It Works:
 
 ::
 
-   python scripts/permit_reader.py all_out.csv --analysis_key SUBCODE --secondary_key=PERMITFLAG
+   python scripts/permit_reader.py all_out.csv --analysis_key SUBCODE --secondary_key=PERMITFLAG --output_format csv --output_file out.csv
 
 Here:
 
