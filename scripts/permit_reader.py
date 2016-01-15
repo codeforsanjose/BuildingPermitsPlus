@@ -41,16 +41,31 @@ def date_parse(input):
 def run(input_files, analysis_key, secondary_key, output_format,
         output_file):
 
-    output_data = []
     full_dataset = []
     for input_file in input_files.split(','):
         fds = run_file(input_file=input_file, analysis_key=analysis_key,
                        secondary_key=secondary_key,
                        output_format=output_format,
-                       output_file=output_file, final_output=output_data)
+                       output_file=output_file)
         full_dataset.extend(fds)
 
     full_dataframe = pd.DataFrame(full_dataset)
+    if secondary_key is not None:
+        group_by = [analysis_key, secondary_key]
+        keyname = '{}:{}'.format(analysis_key, secondary_key)
+    else:
+        group_by = analysis_key
+        keyname = analysis_key
+    interval_dataseries = full_dataframe.groupby(group_by).INTERVAL
+    means = interval_dataseries.mean().to_dict()
+    stddevs = interval_dataseries.std().to_dict()
+    counts = interval_dataseries.count().to_dict()
+    output_data = [{'keyname': keyname, 'key': key,
+                    'mean time (days)': mean,
+                    'stddev (days)': stddevs.get(key, None),
+                    'number of entries': counts.get(key, None)}
+                   for key, mean in means.items()]
+
     if len(output_data) == 0:
         # No data
         print('No data at end!')
@@ -72,7 +87,7 @@ def run(input_files, analysis_key, secondary_key, output_format,
 
 
 def run_file(input_file, analysis_key, secondary_key, output_format,
-             output_file, final_output):
+             output_file):
     """
     Run under one file.
     """
@@ -95,24 +110,6 @@ def run_file(input_file, analysis_key, secondary_key, output_format,
                 full_dataset.append(current_entry)
             except Exception as ex:
                 continue
-
-        df = pd.DataFrame(full_dataset)
-        if secondary_key is not None:
-            group_by = [analysis_key, secondary_key]
-            keyname = '{}:{}'.format(analysis_key, secondary_key)
-        else:
-            group_by = analysis_key
-            keyname = analysis_key
-        interval_dataseries = df.groupby(group_by).INTERVAL
-        means = interval_dataseries.mean().to_dict()
-        stddevs = interval_dataseries.std().to_dict()
-        counts = interval_dataseries.count().to_dict()
-        output_data = [{'keyname': keyname, 'key': key,
-                        'mean time (days)': mean,
-                        'stddev (days)': stddevs.get(key, None),
-                        'number of entries': counts.get(key, None)}
-                       for key, mean in means.items()]
-        final_output.extend(output_data)
 
         return full_dataset
 
