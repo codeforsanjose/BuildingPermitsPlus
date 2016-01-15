@@ -31,18 +31,69 @@ def date_parse(input):
     return dt
 
 @click.command()
-@click.argument('input_file')
+@click.argument('input_files')
 @click.option('--analysis_key', default='SUBCODE', help='Key to pivot on')
 @click.option('--secondary_key', default=None, help='Secondary pivot key')
 @click.option('--output_format', default='print',
               help='Way to output final data')
 @click.option('--output_file', default='output.out',
               help='File to write output to. Does not effect print.')
-def run(input_file, analysis_key, secondary_key, output_format,
+def run(input_files, analysis_key, secondary_key, output_format,
         output_file):
+
+    full_dataset = []
+    for input_file in input_files.split(','):
+        fds = run_file(input_file=input_file, analysis_key=analysis_key,
+                       secondary_key=secondary_key,
+                       output_format=output_format,
+                       output_file=output_file)
+        full_dataset.extend(fds)
+
+    full_dataframe = pd.DataFrame(full_dataset)
+    if secondary_key is not None:
+        group_by = [analysis_key, secondary_key]
+        keyname = '{}:{}'.format(analysis_key, secondary_key)
+    else:
+        group_by = analysis_key
+        keyname = analysis_key
+    interval_dataseries = full_dataframe.groupby(group_by).INTERVAL
+    means = interval_dataseries.mean().to_dict()
+    stddevs = interval_dataseries.std().to_dict()
+    counts = interval_dataseries.count().to_dict()
+    output_data = [{'keyname': keyname, 'key': key,
+                    'mean time (days)': mean,
+                    'stddev (days)': stddevs.get(key, None),
+                    'number of entries': counts.get(key, None)}
+                   for key, mean in means.items()]
+
+    if len(output_data) == 0:
+        # No data
+        print('No data at end!')
+        sys.exit(0)
+    if output_format == 'print':
+        for row in output_data:
+            print(row)
+    elif output_format == 'json':
+        with open(output_file, 'w') as f:
+            json.dump(output_data, f)
+    elif output_format == 'csv':
+        with open(output_file, 'w') as csvfile:
+            fieldnames = output_data[0].keys()
+            writer = csv.DictWriter(csvfile,
+                                    fieldnames=fieldnames)
+            writer.writeheader()
+            for row in output_data:
+                writer.writerow(row)
+
+
+def run_file(input_file, analysis_key, secondary_key, output_format,
+             output_file):
+    """
+    Run under one file.
+    """
                     
     with open(input_file, 'r') as csvfile:
-        reader = csv.DictReader(csvfile, delimiter=',', fieldnames=FIELDNAMES)
+        reader = csv.DictReader(csvfile, delimiter='\t')
         output = defaultdict(list)
         full_dataset = []
         for row in reader:
@@ -60,41 +111,7 @@ def run(input_file, analysis_key, secondary_key, output_format,
             except Exception as ex:
                 continue
 
-        df = pd.DataFrame(full_dataset)
-        if secondary_key is not None:
-            group_by = [analysis_key, secondary_key]
-            keyname = '{}:{}'.format(analysis_key, secondary_key)
-        else:
-            group_by = analysis_key
-            keyname = analysis_key
-        interval_dataseries = df.groupby(group_by).INTERVAL
-        means = interval_dataseries.mean().to_dict()
-        stddevs = interval_dataseries.std().to_dict()
-        counts = interval_dataseries.count().to_dict()
-        output_data = [{'keyname': keyname, 'key': key,
-                        'mean time (days)': mean,
-                        'stddev (days)': stddevs.get(key, None),
-                        'number of entries': counts.get(key, None)}
-                       for key, mean in means.items()]
-        if len(output_data) == 0:
-            # No data
-            print('No data at end!')
-            sys.exit(0)
-        if output_format == 'print':
-            for row in output_data:
-                print(row)
-        elif output_format == 'json':
-            with open(output_file, 'w') as f:
-                json.dump(output_data, f)
-        elif output_format == 'csv':
-            with open(output_file, 'w') as csvfile:
-                fieldnames = output_data[0].keys()
-                writer = csv.DictWriter(csvfile,
-                                        fieldnames=fieldnames)
-                writer.writeheader()
-                for row in output_data:
-                    writer.writerow(row)
-                
+        return full_dataset
 
 
 if __name__=='__main__':
