@@ -42,7 +42,7 @@ def run(input_file, analysis_key, secondary_key, output_format,
         output_file):
                     
     with open(input_file, 'r') as csvfile:
-        reader = csv.DictReader(csvfile, delimiter=',', fieldnames=FIELDNAMES)
+        reader = csv.DictReader(csvfile, delimiter='\t')
         output = defaultdict(list)
         full_dataset = []
         for row in reader:
