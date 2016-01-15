@@ -2,6 +2,7 @@ import sys
 import csv
 import json
 import click
+import sqlite3
 import datetime
 import calendar
 import operator
@@ -31,7 +32,7 @@ def date_parse(input):
     return dt
 
 @click.command()
-@click.argument('input_files')
+@click.argument('input_files', nargs=-1)
 @click.option('--analysis_key', default='SUBCODE', help='Key to pivot on')
 @click.option('--secondary_key', default=None, help='Secondary pivot key')
 @click.option('--output_format', default='print',
@@ -42,7 +43,7 @@ def run(input_files, analysis_key, secondary_key, output_format,
         output_file):
 
     full_dataset = []
-    for input_file in input_files.split(','):
+    for input_file in input_files:
         fds = run_file(input_file=input_file, analysis_key=analysis_key,
                        secondary_key=secondary_key,
                        output_format=output_format,
@@ -84,6 +85,10 @@ def run(input_files, analysis_key, secondary_key, output_format,
             writer.writeheader()
             for row in output_data:
                 writer.writerow(row)
+    elif output_format == 'sqlite':
+        conn = sqlite3.connect(output_file)
+        full_dataframe.to_sql(name='permit', con=conn, flavor='sqlite',
+                              if_exists='replace')
 
 
 def run_file(input_file, analysis_key, secondary_key, output_format,
@@ -92,7 +97,7 @@ def run_file(input_file, analysis_key, secondary_key, output_format,
     Run under one file.
     """
                     
-    with open(input_file, 'r') as csvfile:
+    with open(input_file, 'rU') as csvfile:
         reader = csv.DictReader(csvfile, delimiter='\t')
         output = defaultdict(list)
         full_dataset = []
