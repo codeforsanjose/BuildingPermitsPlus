@@ -1,5 +1,6 @@
 import sys
 import csv
+import json
 import click
 import datetime
 import calendar
@@ -33,7 +34,12 @@ def date_parse(input):
 @click.argument('input_file')
 @click.option('--analysis_key', default='SUBCODE', help='Key to pivot on')
 @click.option('--secondary_key', default=None, help='Secondary pivot key')
-def run(input_file, analysis_key, secondary_key):
+@click.option('--output_format', default='print',
+              help='Way to output final data')
+@click.option('--output_file', default='output.out',
+              help='File to write output to. Does not effect print.')
+def run(input_file, analysis_key, secondary_key, output_format,
+        output_file):
                     
     with open(input_file, 'r') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',', fieldnames=FIELDNAMES)
@@ -61,15 +67,33 @@ def run(input_file, analysis_key, secondary_key):
         else:
             group_by = analysis_key
             keyname = analysis_key
-        means = df.groupby(group_by).INTERVAL.mean().to_dict()
-        stddevs = df.groupby(group_by).INTERVAL.std().to_dict()
-        counts = df.groupby(group_by).INTERVAL.count().to_dict()
-        for k, v in means.items():
-            msg = ('Key {} value: {},  mean time (days): {},  '
-                   'stddev (days): {}, number of entries: {}')
-            msg = msg.format(keyname, k, v, stddevs.get(k, 'NULL'),
-                             counts.get(k, 'NULL'))
-            print(msg)
+        interval_dataseries = df.groupby(group_by).INTERVAL
+        means = interval_dataseries.mean().to_dict()
+        stddevs = interval_dataseries.std().to_dict()
+        counts = interval_dataseries.count().to_dict()
+        output_data = [{'keyname': keyname, 'key': key,
+                        'mean time (days)': mean,
+                        'stddev (days)': stddevs.get(key, None),
+                        'number of entries': counts.get(key, None)}
+                       for key, mean in means.items()]
+        if len(output_data) == 0:
+            # No data
+            print('No data at end!')
+            sys.exit(0)
+        if output_format == 'print':
+            for row in output_data:
+                print(row)
+        elif output_format == 'json':
+            with open(output_file, 'w') as f:
+                json.dump(output_data, f)
+        elif output_format == 'csv':
+            with open(output_file, 'w') as csvfile:
+                fieldnames = output_data[0].keys()
+                writer = csv.DictWriter(csvfile,
+                                        fieldnames=fieldnames)
+                writer.writeheader()
+                for row in output_data:
+                    writer.writerow(row)
                 
 
 
