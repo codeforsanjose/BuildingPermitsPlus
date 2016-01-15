@@ -42,11 +42,15 @@ def run(input_files, analysis_key, secondary_key, output_format,
         output_file):
 
     output_data = []
+    full_dataset = []
     for input_file in input_files.split(','):
-        run_file(input_file=input_file, analysis_key=analysis_key,
-                 secondary_key=secondary_key, output_format=output_format,
-                 output_file=output_file, final_output=output_data)
+        fds = run_file(input_file=input_file, analysis_key=analysis_key,
+                       secondary_key=secondary_key,
+                       output_format=output_format,
+                       output_file=output_file, final_output=output_data)
+        full_dataset.extend(fds)
 
+    full_dataframe = pd.DataFrame(full_dataset)
     if len(output_data) == 0:
         # No data
         print('No data at end!')
@@ -109,6 +113,8 @@ def run_file(input_file, analysis_key, secondary_key, output_format,
                         'number of entries': counts.get(key, None)}
                        for key, mean in means.items()]
         final_output.extend(output_data)
+
+        return full_dataset
 
 
 if __name__=='__main__':
