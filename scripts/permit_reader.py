@@ -12,12 +12,18 @@ from collections import defaultdict
 
 MONTHS = {v.lower(): k for k, v in enumerate(calendar.month_abbr)}
 MASTER_KEY = 'SUBCODE'
-FIELDNAMES = ['TRACT', 'APN', 'ISSUEDATE', 'FINALDATE', 'LOT',
-              'FOLDERNUMBER', 'OWNERNAME', 'CONTRACTOR', 'APPLICANT',
-              'JOBLOCATION', 'PERMITAPPROVALS', 'SUBCODE', 'SUBDESC',
-              'WORKCODE', 'WORKDESC', 'CENSUSCODE', 'PERMITVALUATION',
-              'REROOFVALUATION', 'SQFT', 'DWELLUNITS', 'FOLDERRSN',
-              'SWIMMINGPOOL', 'SEWER', 'ENTERPRISE', 'PERMITFLAG']
+FIELDNAMES = {'TRACT': str, 'APN': str, 'ISSUEDATE': str,
+              'FINALDATE': str, 'LOT': str,
+              'FOLDERNUMBER': str, 'OWNERNAME': str,
+              'CONTRACTOR': str, 'APPLICANT': str,
+              'JOBLOCATION': str, 'PERMITAPPROVALS': str,
+              'SUBCODE': int, 'SUBDESC': str,
+              'WORKCODE': int, 'WORKDESC': str,
+              'CENSUSCODE': str, 'PERMITVALUATION': float,
+              'REROOFVALUATION': float, 'SQFT': float,
+              'DWELLUNITS': int, 'FOLDERRSN': int,
+              'SWIMMINGPOOL': str, 'SEWER': str,
+              'ENTERPRISE': str, 'PERMITFLAG': str}
 STDDEV_SIGNIFICANCE = 2.0
 
 def date_parse(input):
@@ -138,6 +144,13 @@ def run_file(input_file, analysis_key, secondary_key, output_format,
                 for k,v in row.items():
                     if isinstance(v, str):
                         v = v.lstrip().rstrip()
+                    validate_func = FIELDNAMES[k]
+                    try:
+                        if v != '':
+                            validate_func(v)
+                    except ValueError:
+                        print('INVALID KEY, VALUE: ', k, v)
+                        raise
                     current_entry[k] = v
                 start_dt = date_parse(row['ISSUEDATE'])
                 stop_dt = date_parse(row['FINALDATE'])
