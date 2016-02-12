@@ -155,6 +155,9 @@ def run_file(input_file, analysis_key, secondary_key, output_format,
                 start_dt = date_parse(row['ISSUEDATE'])
                 stop_dt = date_parse(row['FINALDATE'])
                 interval = (stop_dt - start_dt).days
+                if interval < 0:
+                    print('TIME INTERVAL LESS THAN 0')
+                    continue
                 current_entry['INTERVAL'] = interval
                 full_dataset.append(current_entry)
             except Exception as ex:
