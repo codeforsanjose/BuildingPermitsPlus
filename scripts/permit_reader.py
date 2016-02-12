@@ -1,6 +1,7 @@
 import sys
 import csv
 import json
+import math
 import click
 import sqlite3
 import datetime
@@ -17,6 +18,7 @@ FIELDNAMES = ['TRACT', 'APN', 'ISSUEDATE', 'FINALDATE', 'LOT',
               'WORKCODE', 'WORKDESC', 'CENSUSCODE', 'PERMITVALUATION',
               'REROOFVALUATION', 'SQFT', 'DWELLUNITS', 'FOLDERRSN',
               'SWIMMINGPOOL', 'SEWER', 'ENTERPRISE', 'PERMITFLAG']
+STDDEV_SIGNIFICANCE = 2.0
 
 def date_parse(input):
     """
@@ -51,21 +53,50 @@ def run(input_files, analysis_key, secondary_key, output_format,
         full_dataset.extend(fds)
 
     full_dataframe = pd.DataFrame(full_dataset)
+    primary_dataseries = full_dataframe.groupby(analysis_key).INTERVAL
+    interval_dataseries = primary_dataseries
+    keyname = analysis_key
+    primary_means = None
+    primary_stddevs = None
+
     if secondary_key is not None:
         group_by = [analysis_key, secondary_key]
         keyname = '{}:{}'.format(analysis_key, secondary_key)
-    else:
-        group_by = analysis_key
-        keyname = analysis_key
-    interval_dataseries = full_dataframe.groupby(group_by).INTERVAL
+        interval_dataseries = full_dataframe.groupby(group_by).INTERVAL
+        primary_means = primary_dataseries.mean().to_dict()
+        primary_stddevs = primary_dataseries.std().to_dict()
+    
     means = interval_dataseries.mean().to_dict()
     stddevs = interval_dataseries.std().to_dict()
     counts = interval_dataseries.count().to_dict()
-    output_data = [{'keyname': keyname, 'key': key,
-                    'mean time (days)': mean,
-                    'stddev (days)': stddevs.get(key, None),
-                    'number of entries': counts.get(key, None)}
-                   for key, mean in means.items()]
+        
+    output_data = []
+    for key, mean in means.items():
+        stddev_deviation = 'N/A'
+        if secondary_key is not None:
+            try:
+                prim_key = key[0]
+                stddev = float(primary_stddevs.get(prim_key, 0.0))
+                primary_mean = float(primary_means.get(prim_key, 0.0))
+                distance = math.fabs(primary_mean - mean)
+                stddev_deviation = distance/stddev
+                if stddev_deviation > STDDEV_SIGNIFICANCE:
+                    print('KEY {} DEVIATED BY {}'.format(key,
+                                                         stddev_deviation))
+            except ValueError:
+                # Do nothing, because something was NaN
+                pass
+            except ZeroDivisionError:
+                # Do nothing, because stddev was 0
+                pass
+        output_data.append(
+            {'keyname': keyname, 'key': key,
+             'mean time (days)': mean,
+             'stddev (days)': stddevs.get(key, None),
+             'number of entries': counts.get(key, None),
+             'deviation from category mean': stddev_deviation
+         }
+        )
 
     if len(output_data) == 0:
         # No data
