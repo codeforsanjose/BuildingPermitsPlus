@@ -15,6 +15,7 @@ Python
 # Administration
 
 Team Lead: Joseph
+
 For information or inquiries: Joseph - JcoEighty6@gmail.com
 
 # Contributing
