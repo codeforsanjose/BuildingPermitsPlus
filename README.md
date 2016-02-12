@@ -1,6 +1,6 @@
-# About the BuildingPermitsPlus
+# About the BuildingPermitsPlus Project
 
-The goal of this group is to analyze historical data from building permit records to determine anything notable (such as bottle-necks etc.), and to design and develop a web interface for the application process. For further details, visit https://codeforsanjose.slack.com/messages/buildingpermitsplus/.
+The goal of this project is to analyze historical data from building permit records to determine anything notable (such as bottle-necks etc.), and to design and develop a web interface for the application process. For further details, visit https://codeforsanjose.slack.com/messages/buildingpermitsplus/.
 
 Current Data Sets:
 
