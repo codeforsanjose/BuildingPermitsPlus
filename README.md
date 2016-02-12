@@ -8,17 +8,17 @@ Current Data Sets:
   
   http://www.sjpermits.org/permits/general/getreports.asp?rt=py
   
-# Languages
+## Languages
 
 Python
 
-# Administration
+## Administration
 
 Team Lead: Joseph
 
 For information or inquiries: Joseph - JcoEighty6@gmail.com
 
-# Contributing
+## Contributing
 
 As posted in the meet-up notification:
 
