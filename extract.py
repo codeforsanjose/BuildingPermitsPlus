@@ -40,11 +40,12 @@ def main():
     p = argparse.ArgumentParser()
 
     p.add_argument('directory')
+    p.add_argument('--show', action='store_true', default=False)
 
     a = p.parse_args()
     logging.basicConfig(level=logging.INFO)
 
-    experiment(a.directory)
+    experiment(a.directory, a.show)
 
 
 main()
