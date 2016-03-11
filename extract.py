@@ -33,7 +33,8 @@ def experiment(directory, show=False):
         good += 1
         if show:
             pprint.pprint(table)
-    print 'bad: %s, good: %s (%f)' % (bad, good, bad / (good + bad))
+    print 'bad: %s, good: %s (%f%% success rate)' % (
+        bad, good, float(good) / (good + bad))
 
 
 def main():
