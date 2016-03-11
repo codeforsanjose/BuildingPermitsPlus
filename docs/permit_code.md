@@ -3,7 +3,8 @@ Permit Codes and Meanings:
 
 As given to us by Michelle on Slack.
 
-+---+-------------+--------------------+
+|Letter| Permit Code Name | Description |
+| ---- | ---------------- | ----------- |
 |A | Tract        | https://www.sanjoseca.gov/index.aspx?NID=544|
 |B | APN | https://en.wikipedia.org/wiki/Assessor%27s_parcel_number|
 |C | Issue Date. | When the permit was issued to the application so work can be performed |
@@ -28,4 +29,4 @@ As given to us by Michelle on Slack.
 |V | Sewer | y/n |
 |W | Enterprise | y/n I think it means if the property , where the permit was applied for, is zoned for business.|
 |X | Permit Flag Building, Plumbing, Mechanical, Electrical | – Scope of specialty trades involved in this addition/alteration/building.  Could be one or all four.|
-+---+-------------+--------------------+
+
