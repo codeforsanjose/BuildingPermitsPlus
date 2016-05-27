@@ -37,10 +37,11 @@ First round of data processing complete. Waiting for visulaization.
  * latitude and longitude are the coordinates, and are present when a valid APN is available.
  
 ## Further Investigation:
- * Where are people building and how has that changed over time.
+ * Where are people building and how has that changed over time.?
  * What type of properties are being modified?
  * How long do permits take to complete and does that vary by geography?
  * Does the geography of permits correspond to any other geographic distribution?
+ * How does a high volume of permits affect the area? Given twenty years of permit data, can we track trends in construction and compare it to trends in income, density, transit use, school performance, or other data from any other geographic dataset?
  * Anything else interesting in the data.
 
 
