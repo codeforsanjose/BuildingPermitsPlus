@@ -16,9 +16,9 @@ As given to us by Michelle on Slack.
 |I | Job Location | Brief Description of Job |
 |J | PermitApprovals | Approval Status of each of the trade in X below|
 |K | SubCode |  The SubCode description below describes what it means|
-|L | SubCode | Description|
+|L | SubDesc | Description|
 |M | WorkCode | The Work Code description below describes what it means |
-|N | WorkCode | Description |
+|N | WorkDesc | Description |
 |O | Census Code | https://www.sanjoseca.gov/DocumentCenter/View/5468|
 |P | Permit Valuation | estimated cost of how much the addition or alteration or the building would cost |
 |Q | Reroof Valuation | estimated cost of the reroof |
