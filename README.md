@@ -14,9 +14,35 @@ Python
 
 ## Administration
 
+Team Lead: Matthew Norman
 Team Lead: Joseph
 
 For information or inquiries: Joseph - JcoEighty6@gmail.com
+
+## Project Status
+
+First round of data processing complete. Waiting for visulaization.
+
+## Data:
+
+ * raw_data: This directory holds the raw_data from recent years in PD_*_ISSUE and PD_*_FINAL state.
+ * PD_*_ISSUE contains information on permits grouped by issue year.
+ * PD_*_FINAL contains information on permits grouped by year of completion.
+
+## raw_data/all_permits.csv
+ * This holds the entire dataset from 1900 to 2014.
+ * It includes all fields, although many are blank in earlier entries.
+ * It adds the following three fields: INTERVAL, latitude, and longitude
+ * INTERVAL is the time between ISSUE_DATE and FINAL_DATE
+ * latitude and longitude are the coordinates, and are present when a valid APN is available.
+ 
+## Further Investigation:
+ * Where are people building and how has that changed over time.
+ * What type of properties are being modified?
+ * How long do permits take to complete and does that vary by geography?
+ * Does the geography of permits correspond to any other geographic distribution?
+ * Anything else interesting in the data.
+
 
 ## Contributing
 
