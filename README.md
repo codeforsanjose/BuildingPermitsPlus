@@ -29,7 +29,7 @@ First round of data processing complete. Waiting for visulaization.
  * PD_*_ISSUE contains information on permits grouped by issue year.
  * PD_*_FINAL contains information on permits grouped by year of completion.
 
-## raw_data/all_permits.csv
+## finished_data/all_permits.csv
  * This holds the entire dataset from 1900 to 2014.
  * It includes all fields, although many are blank in earlier entries.
  * It adds the following three fields: INTERVAL, latitude, and longitude
